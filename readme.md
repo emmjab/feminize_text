@@ -18,3 +18,10 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538
 And the last thing to do is remind tika where the jar is (but I think it might already know):
 TIKA_SERVER_JAR=/var/folders/9h/ttx3gqgd6jbfxzybwz7mqq7r0000gn/T/tika-server.jar
 The readme for the tika project explains all the env vars to set, but that's the only one I needed (and I probably didn't because I didn't move the jar from where it was downloaded).
+
+And it's done! Below script counts the number of instances of men & women (in different forms), replaces all of the former with the latter, and returns a text file with the changes.
+```
+python scripts/feminize_text.py texts/Kuhn_Structure_of_Scientific_Revolutions.pdf
+```
+
+I then copy-pasted the text into a word doc and exported as a PDF (somehow it wasn't easy to find a text-to-pdf python library... I couldn't ever imagine why :P). The spacing on the result isn't great, but i's not horrible either, and I'll finish reading the book like this.
