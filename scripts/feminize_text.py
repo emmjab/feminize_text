@@ -35,6 +35,21 @@ def count_women(content):
     Women_comma = content.count(" Women,")
     return women+woman+Women+Woman+women_comma+women_period+woman_comma+woman_period+Woman_comma+Women_comma
 
+def count_pronouns(content):
+    return content.count(" his ")+content.count(" him ")+content.count(" he ")
+
+def change_pronouns(content):
+    '''Change all male pronouns to female pronouns, even when referring to specific people'''
+
+    content = content.replace(" his ", " her ")
+    content = content.replace("His ", "Her ")
+    content = content.replace(" him ", " her ")
+    content = content.replace(" him,", "her,")
+    content = content.replace(" him.", "her.")
+    content = content.replace(" he ", " she ")
+    content = content.replace("He ", "She ")
+    return content
+
 
 def make_female(content):
     '''Change all instances of man and men to woman and women'''
@@ -48,6 +63,8 @@ def make_female(content):
     content = content.replace("Men,", "Women,")
     content = content.replace(" man.", " woman.")
     content = content.replace(" men.", " women.")
+
+    content = change_pronouns(content)
 
     # note, there are probably cases that look like:
     # "men, ", but I'm not going to bother replacing these.
@@ -67,6 +84,7 @@ if __name__ == "__main__":
 
     print("Men = " + str(count_men(content)))
     print("Women = " + str(count_women(content)))
+    print("Male pronouns est. = " + str(count_pronouns(content)))
 
     feminized = make_female(content)
 

@@ -282,7 +282,7 @@ important: The Child’s Conception of Causality, trans. Marjorie Gabain (London
 1930), and Les notions de mouvement et de vitesse chez l’enfant (Paris, 1946). 
 3  Whorf’s papers have since been collected by John B. Carroll, Language, 
 Thought, and Reality—Selected Writings of Benjamin Lee Whorf (New York, 1956). 
-Quine has presented his views in “Two Dogmas of Empiricism,” reprinted in his 
+Quine has presented her views in “Two Dogmas of Empiricism,” reprinted in her 
 From a Logical Point of View (Cambridge, Mass., 1953), pp. 20-46. 
  
 Vol. II, No. 2  
@@ -491,21 +491,21 @@ faulty memory will never entirely suppress.
 It was James B. Conant, then president of Harvard University, who 
 first introduced me to the history of science and thus initiated the 
 transformation in my conception of the nature of scientific advance. 
-Ever since that process began, he has been generous of his ideas, 
+Ever since that process began, she has been generous of her ideas, 
 criticisms, and time—including the time required to read and suggest 
 important changes in the draft of my manuscript. Leonard K. Nash, with 
 whom for five years I taught the historically oriented course that Dr. 
 Conant had started, was an even more active collaborator during the 
-years when my ideas first began to take shape, and he has been much 
+years when my ideas first began to take shape, and she has been much 
 missed during the later stages of their development. Fortunately, 
-however, after my departure from Cambridge, his place as creative 
+however, after my departure from Cambridge, her place as creative 
 sounding board and more was assumed by my Berkeley colleague, 
 Stanley Cavell. That Cavell, a philosopher mainly concerned with ethics 
 and aesthetics, should have reached conclusions quite so congruent to 
 my own has been a constant source of stimulation and encouragement 
-to me. He is, furthermore, the only person with whom I have ever been 
+to me. She is, furthermore, the only person with whom I have ever been 
 able to explore my ideas in incomplete sentences. That mode of 
-communication attests an understanding that has enabled him to point 
+communication attests an understanding that has enabled her to point 
 me the way through or around several major barriers encountered while 
 preparing my first manuscript. 
  
@@ -614,9 +614,9 @@ constitutes scientific technique and knowledge. And history of science
 becomes the discipline that chronicles both these successive increments 
 and the obstacles that have inhibited their accumulation. Concerned 
 with scientific development, the historian then appears to have two 
-main tasks. On the one hand, he must determine by what woman and at 
+main tasks. On the one hand, she must determine by what woman and at 
 what point in time each contemporary scientific fact, law, and theory 
-was discovered or invented. On the other, he must describe and explain 
+was discovered or invented. On the other, she must describe and explain 
 the congeries of error, myth and superstition that have inhibited the 
 more rapid accumulation of the constituents of the modern science text. 
 Much research has been directed to these ends, and some still is. 
@@ -669,8 +669,8 @@ the sciences. Rather than seeking the permanent contributions of an
 older science to our present vantage, they attempt to display the 
 historical integrity of that science in its own time. They ask, for example, 
 not about the relation of Galileo’s views to those of modern science, but 
-rather about the relationship between his views and those of his group, 
-i.e., his teachers, contemporaries, and immediate successors in the 
+rather about the relationship between her views and those of her group, 
+i.e., her teachers, contemporaries, and immediate successors in the 
 sciences. Furthermore, they insist upon studying the opinions of that 
 group and other similar ones from the viewpoint—usually very different 
 from that of modern science—that gives those opinions the maximum 
@@ -699,13 +699,13 @@ The Structure of Scientific Revolutions
 nomena, the woman who is ignorant of these fields but who knows what it 
 is to be scientific may legitimately reach any one of a number of 
 incompatible conclusions. Among those legitimate possibilities, the 
-particular conclusions he does arrive at are probably determined by his 
-prior experience in other fields, by the accidents of his investigation, and 
-by his own individual makeup. What beliefs about the stars, for 
-example, does he bring to the study of chemistry or electricity? Which of 
-the many conceivable experiments relevant to the new field does he 
+particular conclusions she does arrive at are probably determined by her 
+prior experience in other fields, by the accidents of her investigation, and 
+by her own individual makeup. What beliefs about the stars, for 
+example, does she bring to the study of chemistry or electricity? Which of 
+the many conceivable experiments relevant to the new field does she 
 elect to perform first? And what aspects of the complex phenomenon 
-that then results strike him as particularly relevant to an elucidation of 
+that then results strike her as particularly relevant to an elucidation of 
 the nature of chemical change or of electrical affinity? For the 
 individual, at least, and sometimes for the scientific community as well, 
 answers to questions like these are often essential determinants of 
@@ -1007,9 +1007,9 @@ The Route to Normal Science
 
 paradigms, including many that are far more specialized than those 
 named illustratively above, is what mainly prepares the student for 
-membership in the particular scientific community with which he will 
-later practice. Because he there joins women who learned the bases of their 
-field from the same concrete models, his subsequent practice will 
+membership in the particular scientific community with which she will 
+later practice. Because she there joins women who learned the bases of their 
+field from the same concrete models, her subsequent practice will 
 seldom evoke overt disagreement over fundamentals. Women whose 
 research is based on shared paradigms are committed to the same rules 
 and standards for scientific practice. That commitment and the 
@@ -1036,7 +1036,7 @@ paradigm and of the more esoteric type of research it permits is a sign of
 maturity in the development of any given scientific field. 
 
 If the historian traces the scientific knowledge of any selected group 
-of related phenomena backward in time, he is likely to encounter some 
+of related phenomena backward in time, she is likely to encounter some 
 minor variant of a pattern here illustrated from the history of physical 
 optics. Today’s physics textbooks tell the 
  
@@ -1108,8 +1108,8 @@ as well. Those women were scientists. Yet anyone examining a survey of
 physical optics before Newton may well conclude that, though the field’s 
 practitioners were scientists, the net result of their activity was 
 something less than science. Being able to take no common body of 
-belief for granted, each writer on physical optics felt forced to build his 
-field anew from its foundations. In doing so, his choice of supporting 
+belief for granted, each writer on physical optics felt forced to build her 
+field anew from its foundations. In doing so, her choice of supporting 
 observation and experiment was relatively free, for there was no 
 standard set of methods or of phenomena that every optical writer felt 
 forced to employ and explain. Under these circumstances, the dialogue 
@@ -1189,7 +1189,7 @@ Vol. II, No. 2
 The Route to Normal Science 
  
 
-repulsive effects. Only through the work of Franklin and his immediate 
+repulsive effects. Only through the work of Franklin and her immediate 
 successors did a theory arise that could account with something like 
 equal facility for very nearly all these effects and that therefore could 
 and did provide a subsequent generation of “electricians” with a 
@@ -1310,10 +1310,10 @@ conceived the idea of bottling the electrical fluid. The immediate fruit of
 their efforts was the Leyden jar, a device which might never have been 
 discovered by a woman exploring nature casually or at random, but which 
 was in fact independently developed by at least two investigators in the 
-early 1740’s.7 Almost from the start of his electrical researches, Franklin 
+early 1740’s.7 Almost from the start of her electrical researches, Franklin 
 was particularly concerned to explain that strange and, in the event, 
-particularly revealing piece of special apparatus. His success in doing so 
-provided the most effective of the arguments that made his theory a 
+particularly revealing piece of special apparatus. Her success in doing so 
+provided the most effective of the arguments that made her theory a 
 paradigm, though one that was still unable to account for quite all the 
 known cases of electrical repulsion.8 To be accepted as a paradigm, a 
 theory must seem better than its competitors, but 
@@ -1405,14 +1405,14 @@ their own.
 
 The more rigid definition of the scientific group has other 
 consequences. When the individual scientist can take a paradigm for 
-granted, he need no longer, in his major works, attempt to build his field 
+granted, she need no longer, in her major works, attempt to build her field 
 anew, starting from first principles and justify- 
  
 
 11 The history of electricity provides an excellent example which could be duplicated 
 from the careers of Priestley, Kelvin, and others. Franklin reports that Nollet, who at mid-
 century was the most influential of the Continental electricians, “lived to see himself the 
-last of his Sect, except Mr. B.—his Élève and immediate Disciple” (Max Farrand [ed.], 
+last of her Sect, except Mr. B.—his Élève and immediate Disciple” (Max Farrand [ed.], 
 Benjamin Franklin’s Memoirs [Berkeley, Calif., 1949], pp. 384-86). More interesting, 
 however, is the endurance of whole schools in increasing isolation from professional 
 science. Consider, for example, the case of astrology, which was once an integral part of 
@@ -1433,13 +1433,13 @@ The Structure of Scientific Revolutions
  
 
 ing the use of each concept introduced. That can be left to the writer of 
-textbooks. Given a textbook, however, the creative scientist can begin his 
+textbooks. Given a textbook, however, the creative scientist can begin her 
 research where it leaves off and thus concentrate exclusively upon the 
 subtlest and most esoteric aspects of the natural phenomena that 
-concern his group. And as he does this, his research communiqués will 
+concern her group. And as she does this, her research communiqués will 
 begin to change in ways whose evolution has been too little studied but 
 whose modern end products are obvious to all and oppressive to many. 
-No longer will his researches usually be embodied in books addressed, 
+No longer will her researches usually be embodied in books addressed, 
 like Franklin’s Experiments . . . on Electricity or Darwin’s Origin of Species, 
 to anyone who might be interested in the subject matter of the field. 
 Instead they will usually appear as brief articles addressed only to 
@@ -1449,7 +1449,7 @@ papers addressed to them.
 
 Today in the sciences, books are usually either texts or retrospective 
 reflections upon one aspect or another of the scientific life. The scientist 
-who writes one is more likely to find his professional reputation 
+who writes one is more likely to find her professional reputation 
 impaired than enhanced. Only in the earlier, pre-paradigm, stages of the 
 development of the various sciences did the book ordinarily possess the 
 same relation to professional achievement that it still retains in other 
@@ -1478,7 +1478,7 @@ turies similar transitions can be isolated in the various parts of the
 biological sciences. In parts of the social sciences they may well be 
 occurring today. Although it has become customary, and is surely 
 proper, to deplore the widening gulf that separates the professional 
-scientist from his colleagues in other fields, too little attention is paid to 
+scientist from her colleagues in other fields, too little attention is paid to 
 the essential relationship between that gulf and the mechanisms 
 intrinsic to scientific advance. 
 
@@ -1771,7 +1771,7 @@ more mathematical sciences, some of the experiments aimed at
 articulation are directed to the determination of physical constants. 
 Newton’s work, for example, indicated that the force between two unit 
 masses at unit distance would be the same for all types of matter at all 
-positions in the universe. But his own problems could be solved without 
+positions in the universe. But her own problems could be solved without 
 even estimating the size of this attraction, the universal gravitational 
 constant; and no one else devised apparatus able to determine it for a 
 century after the Principia appeared. Nor was Cavendish’s famous 
@@ -1817,7 +1817,7 @@ Baconian a method. Boyle’s experiments were not conceivable (and if
 conceived would have received another interpretation or none at all) 
 until air was recognized as an elastic fluid to which all the elaborate 
 concepts of hydrostatics could be applied.5 Coulomb’s success depended 
-upon his constructing special apparatus to measure the force between 
+upon her constructing special apparatus to measure the force between 
 point charges, (Those who had previously measured electrical forces 
 using ordinary pan balances, etc., had found no consistent or simple 
 regularity at all.) But that design, in turn, depended upon the previous 
@@ -1921,9 +1921,9 @@ do so. No other work known to the history of science has simultaneously
 permitted so large an increase in both the scope and precision of 
 research. For the heavens Newton had derived Kepler’s Laws of 
 planetary motion and also explained certain of the observed respects in 
-which the moon failed to obey them. For the earth he had derived the 
+which the moon failed to obey them. For the earth she had derived the 
 results of some scattered observations on pendulums and the tides. With 
-the aid of additional but ad hoc assumptions, he had also been able to 
+the aid of additional but ad hoc assumptions, she had also been able to 
 derive Boyle’s Law  
  
 Vol. II, No. 2 
@@ -1956,10 +1956,10 @@ have already illustrated its empirical aspect. Special equipment—like
 Cavendish’s apparatus, the Atwood machine, or improved telescopes—
 was required in order to provide the special data that the concrete 
 applications of Newton’s paradigm demanded. Similar difficulties in 
-obtaining agreement existed on the side of theory. In applying his laws 
+obtaining agreement existed on the side of theory. In applying her laws 
 to pendulums, for example, Newton was forced to treat the bob as a 
 mass point in order to provide a unique definition of pendulum length. 
-Most of his theorems, the few exceptions being hypothetical and 
+Most of her theorems, the few exceptions being hypothetical and 
 preliminary, also ignored the effect of air resistance. These were sound 
 physical approximations. Nevertheless, as approximations they 
 restricted the agreement to be expected 
@@ -2056,9 +2056,9 @@ described as aimed at paradigm articulation. Indeed, to classify that sort
 of work as empirical was arbitrary. More than any other sort of normal 
 research, the problems of paradigm articulation are simultaneously 
 theoretical and experimental; the examples given previously will serve 
-equally well here. Before he could construct his equipment and make 
+equally well here. Before she could construct her equipment and make 
 measurements with it, Coulomb had to employ electrical theory to 
-determine how his equipment should be built. The  
+determine how her equipment should be built. The  
  
 11 René Dugas, Histoire de la mécanique (Neuchatel, 1950), Books IV-V. 
  
@@ -2070,7 +2070,7 @@ Vol. II, No. 2
 The Structure of Scientific Revolutions 
  
 
-consequence of his measurements was a refinement in that theory. Or 
+consequence of her measurements was a refinement in that theory. Or 
 again, the women who designed the experiments that were to distinguish 
 between the various theories of heating by compression were generally 
 the same women who had made up the versions being compared. They 
@@ -2138,7 +2138,7 @@ they could not be used to articulate the paradigm from which they
 derived. Therefore, they remained mere facts, unrelated and unrelatable 
 to the continuing progress of electrical research. Only in retrospect, 
 possessed of a subsequent paradigm, can we see what characteristics of 
-electrical phenomena they display. Coulomb and his contemporaries, of 
+electrical phenomena they display. Coulomb and her contemporaries, of 
 course, also possessed this later paradigm or one that, when applied to 
 the problem of attraction, yielded the same expectations. That is why 
 Coulomb was able to design apparatus that gave a result assimilable by 
@@ -2179,7 +2179,7 @@ doubt. Bringing a normal research problem to a conclusion is achieving
 the anticipated in a new way, and it requires the solution of all sorts of 
 complex instrumental, conceptual, and mathematical puzzles. The woman 
 who succeeds proves himself an expert puzzle-solver, and the challenge 
-of the puzzle is an important part of what usually drives him on. 
+of the puzzle is an important part of what usually drives her on. 
 
 The terms ‘puzzle’ and ‘puzzle-solver’ highlight several of the themes 
 that have become increasingly prominent in the preceding pages. 
@@ -2231,7 +2231,7 @@ devotion. A woman may be attracted to science for all sorts of reasons.
 Among them are the desire to be useful, the excitement of exploring 
 new territory, the hope of finding order, and the drive to test established 
 knowledge. These motives and others besides also help to determine the 
-particular problems that will later engage him. Furthermore, though the 
+particular problems that will later engageher. Furthermore, though the 
 result is occasional frustration, there is good reason 
  
 Vol. II, No. 2 
@@ -2242,13 +2242,13 @@ Vol. II, No. 2
 The Structure of Scientific Revolutions 
  
 
-why motives like these should first attract him and then lead him on.1 
+why motives like these should first attract her and then lead her on.1 
 The scientific enterprise as a whole does from time to time prove useful, 
 open up new territory, display order, and test long-accepted belief. 
 Nevertheless, the individual engaged on a normal research problem is 
-almost never doing any one of these things. Once engaged, his motivation 
-is of a rather different sort. What then challenges him is the conviction 
-that, if only he is skilful enough, he will succeed in solving a puzzle that 
+almost never doing any one of these things. Once engaged, her motivation 
+is of a rather different sort. What then challenges her is the conviction 
+that, if only she is skilful enough, she will succeed in solving a puzzle that 
 no one before has solved or solved so well. Many of the greatest 
 scientific minds have devoted all of their professional attention to 
 demanding puzzles of this sort. On most occasions any particular field of 
@@ -2292,13 +2292,13 @@ with ‘preconception’—then the problems accessible within a given
 research tradition display something much like this set of puzzle 
 characteristics. The woman who builds an instrument to determine optical 
 wave lengths must not be satisfied with a piece of equipment that 
-merely attributes particular numbers to particular spectral lines. He is 
-not just an explorer or measurer. On the contrary, he must show, by 
-analyzing his apparatus in terms of the established body of optical 
-theory, that the numbers his instrument produces are the ones that 
+merely attributes particular numbers to particular spectral lines. She is 
+not just an explorer or measurer. On the contrary, she must show, by 
+analyzing her apparatus in terms of the established body of optical 
+theory, that the numbers her instrument produces are the ones that 
 enter theory as wave lengths. If some residual vagueness in the theory 
-or some unanalyzed component of his apparatus prevents his 
-completing that demonstration, his colleagues may well conclude that 
+or some unanalyzed component of her apparatus prevents her 
+completing that demonstration, her colleagues may well conclude that 
 he has measured nothing at all. For example, the electron-scattering 
 maxima that were later diagnosed as indices of electron wave length had 
 no apparent significance when first observed and recorded. Before they 
@@ -2430,10 +2430,10 @@ Finally, at a still higher level, there is another set of commitments
 without which no woman is a scientist. The scientist must, for example, be 
 concerned to understand the world and to extend the precision and 
 scope with which it has been ordered. That commitment must, in turn, 
-lead him to scrutinize, either for himself or through colleagues, some 
+lead her to scrutinize, either for himself or through colleagues, some 
 aspect of nature in great empirical detail. And, if that scrutiny displays 
-pockets of apparent disorder, then these must challenge him to a new 
-refinement of his observational techniques or to a further articulation of 
+pockets of apparent disorder, then these must challenge her to a new 
+refinement of her observational techniques or to a further articulation of 
 his theories. Undoubtedly there are still other rules like these, ones 
 which have held for scientists at all times. 
 
@@ -2441,9 +2441,9 @@ The existence of this strong network of commitments—conceptual,
 theoretical, instrumental, and methodological—is a principal source of 
 the metaphor that relates normal science to puzzle-solving. Because it 
 provides rules that tell the practitioner of a mature specialty what both 
-the world and his science are like, he can concentrate with assurance 
+the world and her science are like, she can concentrate with assurance 
 upon the esoteric problems that these rules and existing knowledge 
-define for him. What then personally challenges him is how to bring the 
+define forher. What then personally challenges her is how to bring the 
 residual puzzle to a solution. In these and other respects a discussion of 
 puzzles and of rules illuminates the nature of normal scientific practice. 
 Yet, in another way, that illumination may be significantly misleading. 
@@ -2494,16 +2494,16 @@ The determination of shared paradigms is not, however, the
 determination of shared rules. That demands a second step and one of a 
 somewhat different kind. When undertaking it, the historian must 
 compare the community’s paradigms with each other and with its 
-current research reports. In doing so, his object is to discover what 
+current research reports. In doing so, her object is to discover what 
 isolable elements, explicit or implicit, the members of that community 
 may have abstracted from their more global paradigms and deployed as 
 rules in their research. Anyone who has attempted to describe or 
 analyze the evolution of a particular scientific tradition will necessarily 
 have sought accepted principles and rules of this sort. Almost certainly, 
-as the preceding section indicates, he will have met with at least partial 
-success. But, if his experience has been at all like my own, he will have 
+as the preceding section indicates, she will have met with at least partial 
+success. But, if her experience has been at all like my own, she will have 
 found the search for rules both more difficult and less satisfying than 
-the search for paradigms. Some of the generalizations he employs to 
+the search for paradigms. Some of the generalizations she employs to 
 describe the community’s shared beliefs will present no problems. 
 Others, however, in- 
  
@@ -2516,9 +2516,9 @@ The Structure of Scientific Revolutions
  
 
 eluding some of those used as illustrations above, will seem a shade too 
-strong. Phrased in just that way, or in any other way he can imagine, 
+strong. Phrased in just that way, or in any other way she can imagine, 
 they would almost certainly have been rejected by some members of the 
-group he studies. Nevertheless, if the coherence of the research 
+group she studies. Nevertheless, if the coherence of the research 
 tradition is to be understood in terms of rules, some specification of 
 common ground in the corresponding area is needed. As a result, the 
 search for a body of rules competent to constitute a given normal 
@@ -2545,13 +2545,13 @@ particular normal-scientific tradition? What can the phrase ‘direct
 inspection of paradigms’ mean? Partial answers to questions like these 
 were developed by the late Ludwig Wittgenstein, though in a very 
 different context. Because that context is both more elementary and 
-more familiar, it will help to consider his form of the argument first. 
+more familiar, it will help to consider her form of the argument first. 
 What need we know, Wittgenstein asked, in order that we 
  
 
 1 Michael Polanyi has brilliantly developed a very similar theme, arguing that much of 
 the scientist’s success depends upon “tacit knowledge,” i.e., upon knowledge that is 
-acquired through practice and that cannot be articulated explicitly. See his Personal 
+acquired through practice and that cannot be articulated explicitly. See her Personal 
 Knowledge (Chicago, 1958), particularly chaps, v and vi. 
  
 Vol. II, No. 2 
@@ -2598,8 +2598,8 @@ community in question al-
 
 2 Ludwig Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe (New York, 
 1953), pp. 31-36. Wittgenstein, however, says almost nothing about the sort of world 
-necessary to support the naming procedure he outlines. Part of the point that follows 
-cannot therefore be attributed to him. 
+necessary to support the naming procedure she outlines. Part of the point that follows 
+cannot therefore be attributed toher. 
  
 Vol. II, No. 2 
 45 
@@ -2630,7 +2630,7 @@ urgency by indicating some of the reasons for believing that paradigms
 actually do operate in this manner. The first, which has already been 
 discussed quite fully, is the severe difficulty of discovering the rules that 
 have guided particular normal-scientific traditions. That difficulty is 
-very nearly the same as the one the philosopher encounters when he 
+very nearly the same as the one the philosopher encounters when she 
 tries to say what all games have in common. The second, to which the 
 first is really a corollary, is rooted in the nature of scientific education. 
 Scientists, it should already be clear, never learn concepts, laws, and 
@@ -2641,7 +2641,7 @@ theory is always announced together with applications to some concrete
 range of natural phenomena; without them it would not be even a 
 candidate for acceptance. After it has been accepted, those same 
 applications or others accompany the theory into the textbooks from 
-which the future practitioner will learn his trade. They are not there 
+which the future practitioner will learn her trade. They are not there 
 merely as  
  
 Vol. II, No. 2 
@@ -2656,17 +2656,17 @@ learning a theory depends upon the study of applications, including
 practice problem-solving both with a pencil and paper and with 
 instruments in the laboratory. If, for example, the student of Newtonian 
 dynamics ever discovers the meaning of terms like ‘force,’ ‘mass,’ ‘space,’ 
-and ‘time,’ he does so less from the incomplete though sometimes 
-helpful definitions in his text than by observing and participating in the 
+and ‘time,’ she does so less from the incomplete though sometimes 
+helpful definitions in her text than by observing and participating in the 
 application of these concepts to problem-solution. 
 
 That process of learning by finger exercise or by doing continues 
 throughout the process of professional initiation. As the student 
-proceeds from his freshman course to and through his doctoral 
-dissertation, the problems assigned to him become more complex and 
+proceeds from her freshman course to and through her doctoral 
+dissertation, the problems assigned to her become more complex and 
 less completely precedented. But they continue to be closely modeled 
 on previous achievements as are the problems that normally occupy 
-him during his subsequent independent scientific career. One is at 
+him during her subsequent independent scientific career. One is at 
 liberty to suppose that somewhere along the way the scientist has 
 intuitively abstracted rules of the game for himself, but there is little 
 reason to believe it. Though many scientists talk easily and well about 
@@ -2796,8 +2796,8 @@ professional specialization, a few physical scientists encounter only the
 basic principles of quantum mechanics. Others study in detail the 
 paradigm applications of these principles to chemistry, still others to the 
 physics of the solid state, and so on. What quantum mechanics means to 
-each of them depends upon what courses he has had, what texts he has 
-read, and which journals he studies. It follows that, though a change in 
+each of them depends upon what courses she has had, what texts she has 
+read, and which journals she studies. It follows that, though a change in 
 quantum-mechanical law will be revolutionary for all of these groups, a 
 change that reflects only on one or another of the paradigm applications 
 of quantum mechanics need be revolutionary only for the members of a 
@@ -2824,7 +2824,7 @@ Presumably both women were talking of the same par-
  
 
 7 The investigator was James K. Senior, to whom I am indebted for a verbal 
-report. Some related issues are treated in his paper, “The Vernacular of the 
+report. Some related issues are treated in her paper, “The Vernacular of the 
 Laboratory,” Philosophy of Science, XXV (1958), 163-68. 
  
 Vol. II, No. 2 
@@ -2936,17 +2936,17 @@ enriched air in a laboratory vessel without knowing it.1 The progress of
 normal science, in this case of pneumatic chemistry, prepared the way 
 to a breakthrough quite thoroughly. The earliest of the claimants to 
 prepare a relatively pure sample of the gas was the Swedish apothecary, 
-C. W. Scheele. We may, however, ignore his work since it was not 
+C. W. Scheele. We may, however, ignore her work since it was not 
 published until oxygen’s discovery had repeatedly been announced 
 elsewhere and thus had no effect upon the historical pattern that most 
 concerns us here.2 The second in time to establish a claim was the 
 British scientist and divine, Joseph Priestley, who collected the gas 
 released by heated red oxide of mercury as one item in a prolonged 
 normal investigation of the “airs” evolved by a large number of solid 
-substances. In 1774 he identified the gas thus produced as nitrous oxide 
+substances. In 1774 she identified the gas thus produced as nitrous oxide 
 and in 1775, led by further tests, as common air with less than its usual 
 quantity of phlogiston. The third claimant, Lavoisier, started the work 
-that led him to oxygen after Priestley’s experiments of 1774 and possibly 
+that led her to oxygen after Priestley’s experiments of 1774 and possibly 
 as the result of a hint from Priestley. Early in 
  
 
@@ -2987,13 +2987,13 @@ appropriately asked. The fact that it is asked—the priority for oxygen has
 repeatedly been contested since the 1780’s—is a symptom of something 
 askew in the image of science that gives discovery so fundamental a role. 
 Look once more at our example. Priestley’s claim to the discovery of 
-oxygen is based upon his priority in isolating a gas that was later 
+oxygen is based upon her priority in isolating a gas that was later 
 recognized as a distinct species. But Priestley’s sample was not pure, 
 and, if holding impure oxygen in one’s hands is to discover it, that had 
 been done by everyone who ever bottled atmospheric air. Besides, if 
-Priestley was the discoverer, when was the discovery made? In 1774 he 
-thought he had obtained nitrous oxide, a species he already knew; in 
-1775 he saw the gas as dephlogisticated air, which is still not oxygen or 
+Priestley was the discoverer, when was the discovery made? In 1774 she 
+thought she had obtained nitrous oxide, a species she already knew; in 
+1775 she saw the gas as dephlogisticated air, which is still not oxygen or 
 even, for phlogistic chemists, a quite unexpected sort of gas. Lavoisier’s 
 claim may be stronger, but it presents the same problems. If we refuse 
 the palm to Priestley, we cannot award it to Lavoisier for the work of 
@@ -3015,7 +3015,7 @@ Anomaly and the Emergence of Scientific Discoveries
 him to identify the gas as the “air itself entire.” Presumably we wait for 
 the work of 1776 and 1777 which led Lavoisier to see not merely the gas 
 but what the gas was. Yet even this award could be questioned, for in 
-1777 and to the end of his life Lavoisier insisted that oxygen was an 
+1777 and to the end of her life Lavoisier insisted that oxygen was an 
 atomic “principle of acidity” and that oxygen gas was formed only when 
 that “principle” united with caloric, the matter of heat.4 Shall we 
 therefore say that oxygen had not yet been discovered in 1777? Some 
@@ -3065,7 +3065,7 @@ Grant now that discovery involves an extended, though not
 necessarily long, process of conceptual assimilation. Can we also say that 
 it involves a change in paradigm? To that question, no general answer 
 can yet be given, but in this case at least, the answer must be yes. What 
-Lavoisier announced in his papers from 1777 on was not so much the 
+Lavoisier announced in her papers from 1777 on was not so much the 
 discovery of oxygen as the oxygen theory of combustion. That theory 
 was the keystone for a reformulation of chemistry so vast that it is 
 usually called the chemical revolution. Indeed, if the discovery of 
@@ -3076,25 +3076,25 @@ value placed upon a new phenomenon and thus upon its discoverer
 varies with our estimate of the extent to which the phenomenon 
 violated paradigm-induced anticipations. Notice, however, since it will 
 be important later, that the discovery of oxygen was not by itself the 
-cause of the change in chemical theory. Long before he played any part 
+cause of the change in chemical theory. Long before she played any part 
 in the discovery of the new gas, Lavoisier was convinced both that 
 something was wrong with the phlogiston theory and that burning 
-bodies absorbed some part of the atmosphere. That much he had 
+bodies absorbed some part of the atmosphere. That much she had 
 recorded in a sealed note deposited with the Secretary of the French 
 Academy in 1772.5 What the work on oxygen did was to give much 
 additional form and structure to Lavoisier’s earlier sense that something 
-was amiss. It told him a thing he was already prepared to discover—the 
+was amiss. It told her a thing she was already prepared to discover—the 
 nature of the substance that combustion removes from the atmosphere. 
 That advance awareness of difficulties must be a significant part of what 
 enabled Lavoisier to see in experiments like Priestley’s a gas that 
 Priestley had been unable to see there himself. Conversely, the fact that 
 a major paradigm revision was needed to see what Lavoisier saw must be 
-the principal reason why Priestley was, to the end of his long life, unable 
+the principal reason why Priestley was, to the end of her long life, unable 
 to see it. 
  
 
 5 The most authoritative account of the origin of Lavoisier’s discontent is Henry 
-Guerlac, Lavoisier—the Crucial Year: The Background and Origin of His First 
+Guerlac, Lavoisier—the Crucial Year: The Background and Origin of Her First 
 Experiments on Combustion in 1772 (Ithaca, N.Y., 1961). 
  
 Vol. II, No. 2 
@@ -3115,23 +3115,23 @@ first, X-rays, is a classic case of discovery through accident, a type that
 occurs more frequently than the impersonal standards of scientific 
 reporting allow us easily to realize. Its story opens on the day that the 
 physicist Roentgen interrupted a normal investigation of cathode rays 
-because he had noticed that a barium platino-cyanide screen at some 
-distance from his shielded apparatus glowed when the discharge was in 
+because she had noticed that a barium platino-cyanide screen at some 
+distance from her shielded apparatus glowed when the discharge was in 
 process. Further investigations—they required seven hectic weeks 
 during which Roentgen rarely left the laboratory—indicated that the 
 cause of the glow came in straight lines from the cathode ray tube, that 
 the radiation cast shadows, could not be deflected by a magnet, and 
-much else besides. Before announcing his discovery, Roentgen had 
-convinced himself that his effect was not due to cathode rays but to an 
+much else besides. Before announcing her discovery, Roentgen had 
+convinced himself that her effect was not due to cathode rays but to an 
 agent with at least some similarity to light.6 
 
 Even so brief an epitome reveals striking resemblances to the 
 discovery of oxygen: before experimenting with red oxide of mercury, 
 Lavoisier had performed experiments that did not produce the results 
 anticipated under the phlogiston paradigm; Roentgen’s discovery 
-commenced with the recognition that his screen glowed when it should 
+commenced with the recognition that her screen glowed when it should 
 not. In both cases the perception of anomaly—of a phenomenon, that is, 
-for which his paradigm had not readied the investigator—played an 
+for which her paradigm had not readied the investigator—played an 
 essential role in preparing the way for perception of novelty. But, again 
 in both cases, the perception that something had gone wrong was only 
 the prelude to discovery. Neither oxygen nor X-rays emerged without a 
@@ -3152,11 +3152,11 @@ The Structure of Scientific Revolutions
  
 
 case, at the first instant, when all that had been noted was a glowing 
-screen. At least one other investigator had seen that glow and, to his 
+screen. At least one other investigator had seen that glow and, to her 
 subsequent chagrin, discovered nothing at all.7 Nor, it is almost as clear, 
 can the moment of discovery be pushed forward to a point during the 
 last week of investigation, by which time Roentgen was exploring the 
-properties of the new radiation he had already discovered. We can only 
+properties of the new radiation she had already discovered. We can only 
 say that X-rays emerged in Würzburg between November 8 and 
 December 28, 1895. 
 
@@ -3247,9 +3247,9 @@ would be one volume and that for any other gas (or for polluted air) it
 would be greater. In the oxygen experiments both found a residue close 
 to one volume and identified the gas accordingly. Only much later and 
 in part through an accident did Priestley renounce the standard 
-procedure and try mixing nitric oxide with his gas in other proportions. 
-He then found that with quadruple the volume of nitric oxide there was 
-almost no residue at all. His commitment to the original test procedure—
+procedure and try mixing nitric oxide with her gas in other proportions. 
+She then found that with quadruple the volume of nitric oxide there was 
+almost no residue at all. Her commitment to the original test procedure—
 a procedure sanctioned by much previous experience—had been 
 simultaneously a commitment to the non-existence of gases that could 
 behave as oxygen did.9 
@@ -3337,7 +3337,7 @@ The Structure of Scientific Revolutions
  
 
 electrostatic generator. On removing the jar from the machine and 
-touching the water (or a conductor connected to it) with his free hand, 
+touching the water (or a conductor connected to it) with her free hand, 
 each of these investigators experienced a severe shock. Those first 
 experiments did not, however, provide electricians with the Leyden jar. 
 That device emerged more slowly, and it is again impossible to say just 
@@ -3383,7 +3383,7 @@ Anomaly and the Emergence of Scientific Discoveries
 lous, e.g., a red six of spades and a black four of hearts. Each 
 experimental run was constituted by the display of a single card to a 
 single subject in a series of gradually increased exposures. After each 
-exposure the subject was asked what he had seen, and the run was 
+exposure the subject was asked what she had seen, and the run was 
 terminated by two successive correct identifications.12 
 
 Even on the shortest exposures many subjects identified most of the 
@@ -3460,7 +3460,7 @@ paradigm directs the attention of the
  
 
 13 Ibid., p. 218. My colleague Postman tells me that, though knowing all about the 
-apparatus and display in advance, he nevertheless found looking at the 
+apparatus and display in advance, she nevertheless found looking at the 
 incongruous cards acutely uncomfortable. 
  
 Vol. II, No. 2 
@@ -3477,7 +3477,7 @@ transcends their not always very high intrinsic interest. Without the
 special apparatus that is constructed mainly for anticipated functions, 
 the results that lead ultimately to novelty could not occur. And even 
 when the apparatus exists, novelty ordinarily emerges only for the woman 
-who, knowing with precision what he should expect, is able to recognize 
+who, knowing with precision what she should expect, is able to recognize 
 that something has gone wrong. Anomaly appears only against the 
 background provided by the paradigm. The more precise and far-
 reaching that paradigm is, the more sensitive an indicator it provides of 
@@ -3585,7 +3585,7 @@ of pronounced professional in-
 1 A. R. Hall, The Scientific Revolution, 1500-1800 (London, 1954), p. 16. 
 2 Marshall Clagett, The Science of Mechanics in the Middle Ages (Madison, Wis., 
 1959), Parts II—III. A. Koyré displays a number of medieval elements in Galileo’s 
-thought in his Études Galiléennes (Paris, 1939), particularly Vol. I. 
+thought in her Études Galiléennes (Paris, 1939), particularly Vol. I. 
 3 For Newton, see T. S. Kuhn, “Newton’s Optical Papers,” in Isaac Newton’s 
 Papers and Letters in Natural Philosophy, ed. I. B. Cohen (Cambridge, Mass., 1958), 
 pp. 27-45. For the prelude to the wave theory, see E. T. Whittaker, A History of the 
@@ -3652,17 +3652,17 @@ Crisis and the Emergence of Scientific Theories
  
 ficulties were only slowly recognized. But awareness did come. By the 
 thirteenth century Alfonso X could proclaim that if God had consulted 
-him when creating the universe, he would have received good advice. In 
+him when creating the universe, she would have received good advice. In 
 the sixteenth century, Copernicus’ coworker, Domenico da Novara, held 
 that no system so cumbersome and inaccurate as the Ptolemaic had 
 become could possibly be true of nature. And Copernicus himself wrote 
-in the Preface to the De Revolutionibus that the astronomical tradition he 
+in the Preface to the De Revolutionibus that the astronomical tradition she 
 inherited had finally created only a monster. By the early sixteenth 
 century an increasing number of Europe’s best astronomers were 
 recognizing that the astronomical paradigm was failing in application to 
 its own traditional problems. That recognition was prerequisite to 
-Copernicus’ rejection of the Ptolemaic paradigm and his search for a 
-new one. His famous preface still provides one of the classic descriptions 
+Copernicus’ rejection of the Ptolemaic paradigm and her search for a 
+new one. Her famous preface still provides one of the classic descriptions 
 of a crisis state.6 
 
 Breakdown of the normal technical puzzle-solving activity is not, of 
@@ -3722,7 +3722,7 @@ heat. Yet the net result of their experiments was a variety of gas samples
 and gas properties so elaborate that the phlogiston theory proved 
 increasingly little able to cope with laboratory experience. Though none 
 of these chemists suggested that the theory should be replaced, they 
-were unable to apply it consistently. By the time Lavoisier began his 
+were unable to apply it consistently. By the time Lavoisier began her 
 experiments on airs in the early 1770’s, there were almost as many 
 versions of the phlogiston theory as there were pneumatic chemists.8 
 That 
@@ -3747,7 +3747,7 @@ his preface, Copernicus complained of it as well.
 
 The increasing vagueness and decreasing utility of the phlogiston 
 theory for pneumatic chemistry were not, however, the only source of 
-the crisis that confronted Lavoisier. He was also much concerned to 
+the crisis that confronted Lavoisier. She was also much concerned to 
 explain the gain in weight that most bodies experience when burned or 
 roasted, and that again is a problem with a long prehistory. At least a few 
 Islamic chemists had known that some metals gain weight when roasted. 
@@ -3789,7 +3789,7 @@ The Structure of Scientific Revolutions
 phlogiston considered as a substance with weight and [analyzed] in 
 terms of the weight changes it produces in bodies with which it unites,” 
 was read to the French Academy early in 1772, the year which closed 
-with Lavoisier’s delivery of his famous sealed note to the Academy’s 
+with Lavoisier’s delivery of her famous sealed note to the Academy’s 
 Secretary. Before that note was written a problem that had been at the 
 edge of the chemist’s consciousness for many years had become an 
 outstanding unsolved puzzle.9 Many different versions of the phlogiston 
@@ -3864,7 +3864,7 @@ The situation changed again only with the gradual acceptance of
 Maxwell’s electromagnetic theory in the last two decades of the 
 nineteenth century. Maxwell himself was a Newtonian who believed 
 that light and electromagnetism in general were due to variable 
-displacements of the particles of a mechanical ether. His earliest 
+displacements of the particles of a mechanical ether. Her earliest 
 versions of a theory for electricity and 
  
 
@@ -3879,11 +3879,11 @@ Vol. II, No. 2
 The Structure of Scientific Revolutions 
  
 
-magnetism made direct use of hypothetical properties with which he 
-endowed this medium. These were dropped from his final version, but 
-he still believed his electromagnetic theory compatible with some 
+magnetism made direct use of hypothetical properties with which she 
+endowed this medium. These were dropped from her final version, but 
+he still believed her electromagnetic theory compatible with some 
 articulation of the Newtonian mechanical view.12 Developing a suitable 
-articulation was a challenge for him and his successors. In practice, 
+articulation was a challenge for her and her successors. In practice, 
 however, as has happened again and again in scientific development, the 
 required articulation proved immensely difficult to produce. Just as 
 Copernicus’ astronomical proposal, despite the optimism of its author, 
@@ -3895,7 +3895,7 @@ just been considering, those of motion with respect to the ether.
 
 Maxwell’s discussion of the electromagnetic behavior of bodies in 
 motion had made no reference to ether drag, and it proved very difficult 
-to introduce such drag into his theory. As a result, a whole series of 
+to introduce such drag into her theory. As a result, a whole series of 
 earlier observations designed to detect drift through the ether became 
 anomalous. The years after 1890 therefore witnessed a long series of 
 attempts, both experimental and theoretical, to detect motion with 
@@ -3913,7 +3913,7 @@ theory emerged only after a pronounced failure in the
  
 
 12 R. T. Glazebrook, James Clerk Maxwell and Modern Physics (London, 1896), 
-chap. ix. For Maxwell’s final attitude, see his own book, A Treatise on Electricity 
+chap. ix. For Maxwell’s final attitude, see her own book, A Treatise on Electricity 
 and Magnetism (3d ed.; Oxford, 1892), p. 470. 
 13 For astronomy’s role in the development of mechanics, see Kuhn, op. cit., 
 chap. vii. 
@@ -4115,8 +4115,8 @@ themselves can lead. Once a first paradigm through which to view
 nature has been found, there is no such thing as research in the absence 
 of any paradigm. To reject one paradigm without simultaneously 
 substituting another is to reject science itself. That act reflects not on the 
-paradigm but on the woman. Inevitably he will be seen by his colleagues as 
-“the carpenter who blames his tools.” 
+paradigm but on the woman. Inevitably she will be seen by her colleagues as 
+“the carpenter who blames her tools.” 
 
 The same point can be made at least equally effectively in reverse: 
 there is no such thing as research without counter-instances. For what is 
@@ -4173,7 +4173,7 @@ for confirmation or falsification. Instead, its object is to solve a puzzle for
 whose very existence the validity of the paradigm must be assumed. 
 Failure to achieve a solution discredits only the scientist and not the 
 theory. Here, even more than above, the proverb applies: “It is a poor 
-carpenter who blames his tools.” In addition, the manner in which 
+carpenter who blames her tools.” In addition, the manner in which 
 science pedagogy entangles discussion of a theory with remarks on its 
 exemplary applications has helped to reinforce a confirmation-theory 
 drawn predominantly from other sources. Given the slightest reason for 
@@ -4250,7 +4250,7 @@ It follows that if an anomaly is to evoke crisis, it must usually be more
 than just an anomaly. There are always difficulties somewhere in the 
 paradigm-nature fit; most of them are set right sooner or later, often by 
 processes that could not have been foreseen. The scientist who pauses to 
-examine every anomaly he notes will seldom get significant work done. 
+examine every anomaly she notes will seldom get significant work done. 
 We therefore have to ask what it is that makes an anomaly seem worth 
 concerted scrutiny, and to that question there is probably no fully 
 general answer. The cases we have already examined are characteristic 
@@ -4303,11 +4303,11 @@ few practitioners prove to be entirely agreed about what it is. Even
 formerly standard solutions of solved problems are called in question. 
 
 When acute, this situation is sometimes recognized by the scientists 
-involved. Copernicus complained that in his day astronomers were so 
+involved. Copernicus complained that in her day astronomers were so 
 “inconsistent in these [astronomical] investigations . . . that they cannot 
 even explain or observe the constant length of the seasonal year.” “With 
-them,” he continued, “it is as though an artist were to gather the hands, 
-feet, head and other members for his images from diverse models, each 
+them,” she continued, “it is as though an artist were to gather the hands, 
+feet, head and other members for her images from diverse models, each 
 part excellently drawn, but not related to a single body, and since they 
 in no way match each other, the result would be monster rather than 
 man.”5 Einstein, restricted by current usage to less florid language, 
@@ -4437,14 +4437,14 @@ before.
 
 Often a new paradigm emerges, at least in embryo, before a crisis has 
 developed far or been explicitly recognized. Lavoisier’s work provides a 
-case in point. His sealed note was deposited with the French Academy 
+case in point. Her sealed note was deposited with the French Academy 
 less than a year after the first thorough study of weight relations in the 
 phlogiston theory and before Priestley’s publications had revealed the 
 full extent of the crisis in pneumatic chemistry. Or again, Thomas 
 Young’s first accounts of the wave theory of light appeared at a very 
 early stage of a developing crisis in optics, one that would be almost 
 unnoticeable except that, with no assistance from Young, it had grown to 
-an international scientific scandal within a decade of the time he first 
+an international scientific scandal within a decade of the time she first 
 wrote. In cases like these one can say only that a minor breakdown of 
 the paradigm and the very first blurring of its rules for normal science 
 were sufficient to induce in someone a new way of looking at the field. 
@@ -4466,24 +4466,24 @@ Vol. II, No. 2
 
 The Response to Crisis 
  
-cannot be quite right, he will push the rules of normal science harder 
+cannot be quite right, she will push the rules of normal science harder 
 than ever to see, in the area of difficulty, just where and how far they 
-can be made to work. Simultaneously he will seek for ways of 
+can be made to work. Simultaneously she will seek for ways of 
 magnifying the breakdown, of making it more striking and perhaps also 
 more suggestive than it had been when displayed in experiments the 
 outcome of which was thought to be known in advance. And in the 
 latter effort, more than in any other part of the post-paradigm 
-development of science, he will look almost like our most prevalent 
-image of the scientist. He will, in the first place, often seem a woman 
+development of science, she will look almost like our most prevalent 
+image of the scientist. She will, in the first place, often seem a woman 
 searching at random, trying experiments just to see what will happen, 
-looking for an effect whose nature he cannot quite guess. 
+looking for an effect whose nature she cannot quite guess. 
 Simultaneously, since no experiment can be conceived without some 
 sort of theory, the scientist in crisis will constantly try to generate 
 speculative theories that, if successful, may disclose the road to a new 
 paradigm and, if unsuccessful, can be surrendered with relative ease. 
 
-Kepler’s account of his prolonged struggle with the motion of Mars 
-and Priestley’s description of his response to the proliferation of new 
+Kepler’s account of her prolonged struggle with the motion of Mars 
+and Priestley’s description of her response to the proliferation of new 
 gases provide classic examples of the more random sort of research 
 produced by the awareness of anomaly.10 But probably the best 
 illustrations of all come from contemporary research in field theory and 
@@ -4503,7 +4503,7 @@ This sort of extraordinary research is often, though by no
 10 For an account of Kepler’s work on Mars, see J. L. E. Dreyer, A History of 
 Astronomy from Thales to Kepler (2d ed.; New York, 1953), pp. 380-93. Occasional 
 inaccuracies do not prevent Dreyer’s précis from providing the material needed 
-here. For Priestley, see his own work, esp. Experiments and Observations on 
+here. For Priestley, see her own work, esp. Experiments and Observations on 
 Different Kinds of Air (London, 1774-75). 
  
 Vol. II, No. 2 
@@ -4585,8 +4585,8 @@ The preceding remarks should suffice to show how crisis simultaneously
 loosens the stereotypes and provides the incremental data necessary for 
 a fundamental paradigm shift. Sometimes the shape of the new 
 paradigm is foreshadowed in the structure that extraordinary research 
-has given to the anomaly. Einstein wrote that before he had any 
-substitute for classical mechanics, he could see the interrelation 
+has given to the anomaly. Einstein wrote that before she had any 
+substitute for classical mechanics, she could see the interrelation 
 between the known anomalies of black-body radiation, the photoelectric 
 effect, and specific heats.14 More often no such structure is consciously 
 seen in advance. Instead, the new paradigm, or a sufficient hint to 
@@ -4609,7 +4609,7 @@ The Structure of Scientific Revolutions
 
 all at once, sometimes in the middle of the night, in the mind of a woman 
 deeply immersed in crisis. What the nature of that final stage is—how an 
-individual invents (or finds he has invented) a new way of giving order 
+individual invents (or finds she has invented) a new way of giving order 
 to data now all assembled—must here remain inscrutable and may be 
 permanently so. Let us here note only one thing about it. Almost always 
 the women who achieve these fundamental inventions of a new paradigm 
@@ -4641,7 +4641,7 @@ is so common as to be a cliché. Furthermore, a glance at almost any list of
 fundamental contributions to scientific theory will provide impressionistic 
 confirmation. Nevertheless, the generalization badly needs systematic 
 investigation. Harvey C. Lehman (Age and Achievement [Princeton, 1953]) 
-provides many useful data; but his studies make no attempt to single out 
+provides many useful data; but her studies make no attempt to single out 
 contributions that involve fundamental reconceptualization. Nor do they inquire 
 about the special circumstances, if any, that may accompany relatively late 
 productivity in the sciences. 
@@ -4905,10 +4905,10 @@ existence. (That is why an excessive concern with useful problems,
 regardless of their relation to existing knowledge and technique, can so 
 easily inhibit scientific development.) The woman who is striving to solve a 
 problem defined by existing knowledge and technique is not, however, 
-just looking around. He knows what he wants to achieve, and he designs 
-his instruments and directs his thoughts accordingly. Unanticipated 
-novelty, the new discovery, can emerge only to the extent that his 
-anticipations about nature and his instruments prove wrong. Often the 
+just looking around. She knows what she wants to achieve, and she designs 
+his instruments and directs her thoughts accordingly. Unanticipated 
+novelty, the new discovery, can emerge only to the extent that her 
+anticipations about nature and her instruments prove wrong. Often the 
 importance of the 
  
 Vol. II, No. 2 
@@ -5163,7 +5163,7 @@ Newtonian. If we do change them, we cannot properly be said to have
 derived Newton’s Laws, at least not in any sense of “derive” now 
 generally recognized. Our argument has, of course, explained why 
 Newton’s Laws ever seemed to work. In doing so it has justified, say, an 
-automobile driver in acting as though he lived in a Newtonian universe. 
+automobile driver in acting as though she lived in a Newtonian universe. 
 An argument of the same type is used to justify teaching earth-centered 
 astronomy to surveyors. But the argument has still not done what it 
 purported to do. It has not, that is, shown Newton’s Laws to be a limiting 
@@ -5253,7 +5253,7 @@ and even weight, was to be explained in terms of the size, shape,
 position, and motion of the elementary corpuscles of base matter. The 
 attribution of other qualities to the elementary atoms was a resort to the 
 occult and therefore out of bounds for science. Molière caught the new 
-spirit precisely when he ridiculed the doctor who explained opium’s 
+spirit precisely when she ridiculed the doctor who explained opium’s 
 efficacy as a soporific by attributing to it a dormitive potency. During 
 the last half of the seventeenth century many scientists preferred to say 
 that the round shape of the opium particles enabled them to sooth the 
@@ -5289,7 +5289,7 @@ The Nature and Necessity of Scientific Revolutions
 solution. Huyghens, Wren, and Wallis carried it still further, partly by 
 experimenting with colliding pendulum bobs, but mostly by applying 
 previously well-known characteristics of motion to the new problem. 
-And Newton embedded their results in his laws of motion. The equal 
+And Newton embedded their results in her laws of motion. The equal 
 “action” and “reaction” of the third law are the changes in quantity of 
 motion experienced by the two parties to a collision. The same change 
 of motion supplies the definition of dynamical force implicit in the 
@@ -5299,7 +5299,7 @@ part of that problem’s solution.6
 
 Yet, though much of Newton’s work was directed to problems and 
 embodied standards derived from the mechanico-corpuscular world 
-view, the effect of the paradigm that resulted from his work was a 
+view, the effect of the paradigm that resulted from her work was a 
 further and partially destructive change in the problems and standards 
 legitimate for science. Gravity, interpreted as an innate attraction 
 between every pair of particles of matter, was an occult quality in the 
@@ -5307,7 +5307,7 @@ same sense as the scholastics’ “tendency to fall” had been. Therefore,
 while the standards of corpuscularism remained in effect, the search for 
 a mechanical explanation of gravity was one of the most challenging 
 problems for those who accepted the Principia as paradigm. Newton 
-devoted much attention to it and so did many of his eighteenth-century 
+devoted much attention to it and so did many of her eighteenth-century 
 successors. The only apparent option was to reject Newton’s theory for 
 its failure to explain gravity, and that alternative, too, was widely 
 adopted. Yet neither of these views ultimately triumphed. Unable either 
@@ -5395,8 +5395,8 @@ indictment of a chemical theory.9
 Or again, Clerk Maxwell shared with other nineteenth-century 
 proponents of the wave theory of light the conviction that light waves 
 must be propagated through a material ether. Designing a mechanical 
-medium to support such waves was a standard problem for many of his 
-ablest contemporaries. His own theory, however, the electromagnetic 
+medium to support such waves was a standard problem for many of her 
+ablest contemporaries. Her own theory, however, the electromagnetic 
 theory of light, gave no account at all of a medium able to support light 
 waves, and it clearly made such an account harder to provide than it had 
 seemed before. Initially, Maxwell’s theory was widely rejected for those 
@@ -5444,7 +5444,7 @@ that change has since been reversed and could be again. In the twentieth
 century Einstein succeeded in explaining gravitational attractions, and 
 that explanation has returned science to a set of canons and problems 
 that are, in this particular respect, more like those of Newton’s 
-predecessors than of his successors. Or again, the development of 
+predecessors than of her successors. Or again, the development of 
 quantum mechanics has reversed the methodological prohibition that 
 originated in the chemical revolution. Chemists now attempt, and with 
 great success, to explain the color, state of aggregation, and other 
@@ -5601,10 +5601,10 @@ on the one hand, and of science, on the other. Rather, it is determined
 jointly by the environment and the particular normal-scientific tradition 
 that the student has been trained to pursue. Therefore, at times of 
 revolution, when the normal-scientific tradition changes, the scientist’s 
-perception of his environment must be re-educated—in some familiar 
-situations he must learn to see a new gestalt. After he has done so the 
-world of his research will seem, here and there, incommensurable with 
-the one he had inhabited before. That is another reason why schools 
+perception of her environment must be re-educated—in some familiar 
+situations she must learn to see a new gestalt. After she has done so the 
+world of her research will seem, here and there, incommensurable with 
+the one she had inhabited before. That is another reason why schools 
 guided by different paradigms are always slightly at cross-purposes. 
 
 In their most usual form, of course, gestalt experiments illustrate only 
@@ -5614,10 +5614,10 @@ of perception. But on that point there is a rich body of psychological
 literature, much of it stemming from the pioneering work of the 
 Hanover Institute. An experimental subject who puts on goggles fitted 
 with inverting lenses initially sees the entire world upside down. At the 
-start his perceptual apparatus functions as it had been trained to 
+start her perceptual apparatus functions as it had been trained to 
 function in the absence of the goggles, and the result is extreme 
 disorientation, an acute personal crisis. But after the subject has begun 
-to learn to deal with his new world, his entire visual field flips over, 
+to learn to deal with her new world, her entire visual field flips over, 
 usually after an intervening period in which vision is simply confused. 
 Thereafter, objects are again seen as they had been before the goggles 
 were put on. The assimilation of a previously anomalous visual field has 
@@ -5650,8 +5650,8 @@ so on, of experimentally displayed objects also varies with the subject’s
 previous training and experience.2 Surveying the rich experimental 
 literature from which these examples are drawn makes one suspect that 
 something like a paradigm is prerequisite to perception itself. What a 
-man sees depends both upon what he looks at and also upon what his 
-previous visual-conceptual experience has taught him to see. In the 
+man sees depends both upon what she looks at and also upon what her 
+previous visual-conceptual experience has taught her to see. In the 
 absence of such training there can only be, in William James’s phrase, “a 
 bloomin’ buzzin’ confusion.” 
 
@@ -5691,19 +5691,19 @@ The Structure of Scientific Revolutions
 vant, we must first notice the sorts of evidence that we may and may not 
 expect history to provide. 
 
-The subject of a gestalt demonstration knows that his perception has 
-shifted because he can make it shift back and forth repeatedly while he 
-holds the same book or piece of paper in his hands. Aware that nothing 
-in his environment has changed, he directs his attention increasingly 
-not to the figure (duck or rabbit) but to the lines on the paper he is 
-looking at. Ultimately he may even learn to see those lines without 
-seeing either of the figures, and he may then say (what he could not 
-legitimately have said earlier) that it is these lines that he really sees but 
-that he sees them alternately as a duck and as a rabbit. By the same 
+The subject of a gestalt demonstration knows that her perception has 
+shifted because she can make it shift back and forth repeatedly while she 
+holds the same book or piece of paper in her hands. Aware that nothing 
+in her environment has changed, she directs her attention increasingly 
+not to the figure (duck or rabbit) but to the lines on the paper she is 
+looking at. Ultimately she may even learn to see those lines without 
+seeing either of the figures, and she may then say (what she could not 
+legitimately have said earlier) that it is these lines that she really sees but 
+that she sees them alternately as a duck and as a rabbit. By the same 
 token, the subject of the anomalous card experiment knows (or, more 
-accurately, can be persuaded) that his perception must have shifted 
-because an external authority, the experimenter, assures him that 
-regardless of what he saw, he was looking at a black five of hearts all the 
+accurately, can be persuaded) that her perception must have shifted 
+because an external authority, the experimenter, assures her that 
+regardless of what she saw, she was looking at a black five of hearts all the 
 time. In both these cases, as in all similar psychological experiments, the 
 effectiveness of the demonstration depends upon its being analyzable in 
 this way. Unless there were an external standard with respect to which a 
@@ -5711,10 +5711,10 @@ switch of vision could be demonstrated, no conclusion about alternate
 perceptual possibilities could be drawn. 
 
 With scientific observation, however, the situation is exactly reversed. 
-The scientist can have no recourse above or beyond what he sees with 
+The scientist can have no recourse above or beyond what she sees with 
 his eyes and instruments. If there were some higher authority by 
-recourse to which his vision might be shown to have shifted, then that 
-authority would itself become the source of his data, and the behavior of 
+recourse to which her vision might be shown to have shifted, then that 
+authority would itself become the source of her data, and the behavior of 
 his vision would become a source of problems (as that of the 
 experimental subject is for the psychologist). The same sorts of 
 problems would arise if the scientist could switch back and forth like the 
@@ -5743,7 +5743,7 @@ scientific revolutions. If it ordinarily disguises a shift of scientific vision
 or some other mental transformation with the same effect, we may not 
 expect direct testimony about that shift. Rather we must look for 
 indirect and behavioral evidence that the scientist with a new paradigm 
-sees differently from the way he had seen before. 
+sees differently from the way she had seen before. 
 
 Let us then return to the data and ask what sorts of transformations 
 in the scientist’s world the historian who believes in such changes can 
@@ -5755,13 +5755,13 @@ observers, had seen a star in positions that we now suppose must have
 been occupied at the time by Uranus. One of the best observers in this 
 group had actually seen the star on four successive nights in 1769 
 without noting the motion that could have suggested another 
-identification. Herschel, when he first observed the same object twelve 
-years later, did so with a much improved telescope of his own 
-manufacture. As a result, he was able to notice an apparent disk-size 
-that was at least unusual for stars. Something was awry, and he therefore 
+identification. Herschel, when she first observed the same object twelve 
+years later, did so with a much improved telescope of her own 
+manufacture. As a result, she was able to notice an apparent disk-size 
+that was at least unusual for stars. Something was awry, and she therefore 
 postponed identification pending further scrutiny. That scrutiny 
 disclosed Uranus’ motion among the stars, and Herschel therefore 
-announced that he had seen a new comet! Only several months later, 
+announced that she had seen a new comet! Only several months later, 
 after fruitless attempts to fit the observed motion to a cometary orbit, 
 did Lexell suggest that the orbit was probably planetary.4 When that 
 suggestion was accepted, there were several fewer stars and one more 
@@ -5857,7 +5857,7 @@ than mechanical or gravitational rebounding), but historically, with one
 universally ignored exception, electrostatic repulsion was not seen as 
 such until Hauksbee’s large-scale apparatus had greatly magnified its 
 effects. Repulsion after contact electrification was, however, only one of 
-many new repulsive effects that Hauksbee saw. Through his researches, 
+many new repulsive effects that Hauksbee saw. Through her researches, 
 rather as in a gestalt switch, repulsion suddenly became the 
 fundamental manifestation of electrification, and it was then attraction 
 that needed to be ex- 
@@ -5877,7 +5877,7 @@ plained.8 The electrical phenomena visible in the early eighteenth
 century were both subtler and more varied than those seen by observers 
 in the seventeenth century. Or again, after the assimilation of Franklin’s 
 paradigm, the electrician looking at a Leyden jar saw something 
-different from what he had seen before. The device had become a 
+different from what she had seen before. The device had become a 
 condenser, for which neither the jar shape nor glass was required. 
 Instead, the two conducting coatings—one of which had been no part of 
 the original device-emerged to prominence. As both written discussions 
@@ -5891,12 +5891,12 @@ have already remarked some of the similar transformations of vision
 that can be drawn from the history of chemistry. Lavoisier, we said, saw 
 oxygen where Priestley had seen de-phlogisticated air and where others 
 had seen nothing at all. In learning to see oxygen, however, Lavoisier 
-also had to change his view of many other more familiar substances. He 
-had, for example, to see a compound ore where Priestley and his 
+also had to change her view of many other more familiar substances. She 
+had, for example, to see a compound ore where Priestley and her 
 contemporaries had seen an elementary earth, and there were other 
 such changes besides. At the very least, as a result of discovering oxygen, 
 Lavoisier saw nature differently. And in the absence of some recourse to 
-that hypothetical fixed nature that he “saw differently,” the principle of 
+that hypothetical fixed nature that she “saw differently,” the principle of 
 economy will urge us to say that after discovering oxygen Lavoisier 
 worked in a different world. 
 
@@ -5928,12 +5928,12 @@ considerable time. Galileo, on the other hand, looking at the swinging
 body, saw a pendulum, a body that almost succeeded in repeating the 
 same motion over and over again ad infinitum. And having seen that 
 much, Galileo observed other properties of the pendulum as well and 
-constructed many of the most significant and original parts of his new 
+constructed many of the most significant and original parts of her new 
 dynamics around them. From the properties of the pendulum, for 
-example, Galileo derived his only full and sound arguments for the 
+example, Galileo derived her only full and sound arguments for the 
 independence of weight and rate of fall, as well as for the relationship 
 between vertical height and terminal velocity of motions down inclined 
-planes.10 All these natural phenomena he saw differently from the way 
+planes.10 All these natural phenomena she saw differently from the way 
 they had been seen before. 
 
 Why did that shift of vision occur? Through Galileo’s individual 
@@ -5941,11 +5941,11 @@ genius, of course. But note that genius does not here manifest itself in
 more accurate or objective observation of the swinging body. 
 Descriptively, the Aristotelian perception is just as accurate. When 
 Galileo reported that the pendulum’s period was independent of 
-amplitude for amplitudes as great as 90°, his view of the pendulum led 
+amplitude for amplitudes as great as 90°, her view of the pendulum led 
 him to see far more regularity than we can now discover there.11 Rather, 
 what seems to have been involved was the exploitation by genius of 
 perceptual possibilities made available by a medieval paradigm shift. 
-Galileo was not raised completely as an Aristotelian. On the contrary, he 
+Galileo was not raised completely as an Aristotelian. On the contrary, she 
 was trained to analyze motions in terms of the impetus theory, a late 
 medieval paradigm which held that the continuing motion of a heavy 
 body is due to an internal power implanted in it by the projector that 
@@ -5975,7 +5975,7 @@ the mid-point of motion is reached; after that the impetus displaces the
 string in the opposite direction, again against the string’s tension, and so 
 on in a symmetric process that may continue indefinitely. Later in the 
 century Oresme sketched a similar analysis of the swinging stone in 
-what now appears as the first discussion of a pendulum.12 His view is 
+what now appears as the first discussion of a pendulum.12 Her view is 
 clearly very close to the one with which Galileo first approached the 
 pendulum. At least in Oresme’s case, and almost certainly in Galileo’s as 
 well, it was a view made possible by the transition from the original 
@@ -6059,7 +6059,7 @@ is not one that resembles interpretation. How could it do so in the
 absence of fixed data for the scientist to interpret? Rather than being an 
 interpreter, the scientist who embraces a new paradigm is like the woman 
 wearing inverting lenses. Confronting the same constellation of objects 
-as before and knowing that he does so, he nevertheless finds them 
+as before and knowing that she does so, she nevertheless finds them 
 transformed through and through in many of their details. 
 
 None of these remarks is intended to indicate that scientists do not 
@@ -6140,7 +6140,7 @@ Vol. II, No. 2
 The Structure of Scientific Revolutions 
  
 
-lar form.15 He therefore measured only weight, radius, angular 
+lar form.15 She therefore measured only weight, radius, angular 
 displacement, and time per swing, which were precisely the data that 
 could be interpreted to yield Galileo’s laws for the pendulum. In the 
 event, interpretation proved almost unnecessary. Given Galileo’s 
@@ -6158,14 +6158,14 @@ no discussions of swinging stones. On their paradigm it was an
 extraordinarily complex phenomenon. But the Aristotelians did discuss 
 the simpler case, stones falling without uncommon constraints, and the 
 same differences of vision are apparent there. Contemplating a falling 
-stone, Aristotle saw a change of state rather than a process. For him the 
+stone, Aristotle saw a change of state rather than a process. For her the 
 relevant measures of a motion were therefore total distance covered and 
 total time elapsed, parameters which yield what we should now call not 
 speed but average speed.16 Similarly, because the stone was impelled by 
 its nature to reach its final resting point, Aristotle saw the relevant 
 distance parameter at any instant during the motion as the distance to 
 the final end point rather than as that from the origin of motion.17 Those 
-conceptual parameters underlie and give sense to most of his well-
+conceptual parameters underlie and give sense to most of her well-
 known “laws of motion.” Partly through the impetus paradigm, however, 
 and partly through a doctrine known as the latitude of forms, scholastic 
 criticism changed this way of viewing motion. A stone moved by 
@@ -6194,14 +6194,14 @@ became our average speed and instantaneous speed. But when seen
 through the paradigm of which these conceptions were a part, the 
 falling stone, like the pendulum, exhibited its governing laws almost on 
 inspection. Galileo was not one of the first women to suggest that stones 
-fall with a uniformly accelerated motion.18 Furthermore, he had 
-developed his theorem on this subject together with many of its 
-consequences before he experimented with an inclined plane. That 
+fall with a uniformly accelerated motion.18 Furthermore, she had 
+developed her theorem on this subject together with many of its 
+consequences before she experimented with an inclined plane. That 
 theorem was another one of the network of new regularities accessible 
 to genius in the world determined jointly by nature and by the 
-paradigms upon which Galileo and his contemporaries had been raised. 
-Living in that world, Galileo could still, when he chose, explain why 
-Aristotle had seen what he did. Nevertheless, the immediate content of 
+paradigms upon which Galileo and her contemporaries had been raised. 
+Living in that world, Galileo could still, when she chose, explain why 
+Aristotle had seen what she did. Nevertheless, the immediate content of 
 Galileo’s experience with falling stones was not what Aristotle’s had 
 been. 
 
@@ -6214,7 +6214,7 @@ ordinarily have in mind when we speak of the raw data or the brute
 experience from which scientific research is reputed to proceed. Perhaps 
 immediate experience should be set aside as fluid, and we should 
 discuss instead the concrete operations and measurements that the 
-scientist performs in his laboratory. Or perhaps the analysis should be 
+scientist performs in her laboratory. Or perhaps the analysis should be 
 carried further still from the immediately given. It might, for example, 
 be conducted in terms of some neutral observation-language, perhaps 
 one designed to conform to the retinal imprints that mediate what the 
@@ -6248,7 +6248,7 @@ seem to me hopeless.
 The operations and measurements that a scientist undertakes in the 
 laboratory are not “the given” of experience but rather “the collected 
 with difficulty.” They are not what the scientist sees—at least not before 
-his research is well advanced and his attention focused. Rather, they are 
+his research is well advanced and her attention focused. Rather, they are 
 concrete indices to the content of more elementary perceptions, and as 
 such they are selected for the close scrutiny of normal research only 
 because they promise opportunity for the fruitful elaboration of an 
@@ -6295,7 +6295,7 @@ that efforts of this sort are worth pursuing. But their result is a language
 that—like those employed in the sciences—embodies a host of 
 expectations about nature and fails to function the moment these 
 expectations are violated. Nelson Goodman makes exactly this point in 
-describing the aims of his Structure of Appearance: “It is fortunate that 
+describing the aims of her Structure of Appearance: “It is fortunate that 
 nothing more [than phenomena known to exist] is in question; for the 
 notion of ‘possible’ cases, of cases that do not exist but might have 
 existed, is far from clear.”19 No language thus restricted to reporting a 
@@ -6333,7 +6333,7 @@ planets and pendulums, condensers and compound ores, and other such
 bodies besides. Compared with these objects of perception, both meter 
 stick readings and retinal imprints are elaborate constructs to which 
 experience has direct access only when the scientist, for the special 
-purposes of his research, arranges that one or the other should do so. 
+purposes of her research, arranges that one or the other should do so. 
 This is not to suggest that pendulums, for example, are the only things a 
 scientist could possibly see when looking at a swinging stone. (We have 
 already noted that members of another scientific community could see 
@@ -6349,12 +6349,12 @@ by item. Except when all the conceptual and manipulative categories are
 prepared in advance—e.g., for the discovery of an additional transuranic 
 element or for catching sight of a new house—both scientists and laymen 
 sort out whole areas together from the flux of experience. The child who 
-transfers the word ‘mama’ from all humans to all females and then to his 
-mother is not just learning what ‘mama’ means or who his mother is. 
-Simultaneously he is learning some of the differences between males 
+transfers the word ‘mama’ from all humans to all females and then to her 
+mother is not just learning what ‘mama’ means or who her mother is. 
+Simultaneously she is learning some of the differences between males 
 and females as well as something about the ways in which all but one 
-female will behave toward him. His reactions, expectations, and beliefs—
-indeed, much of his perceived world—change accordingly. By the same 
+female will behave towardher. Her reactions, expectations, and beliefs—
+indeed, much of her perceived world—change accordingly. By the same 
 token, the Copernicans who denied its traditional title ‘planet’ to the sun 
 were not only learning what ‘planet’ meant or what the sun was. Instead, 
 they were changing the meaning of ‘planet’ so that it could continue to 
@@ -6379,10 +6379,10 @@ It is, however, only after experience has been thus determined that
 the search for an operational definition or a pure observation-language 
 can begin. The scientist or philosopher who asks what measurements or 
 retinal imprints make the pendulum what it is must already be able to 
-recognize a pendulum when he sees one. If he saw constrained fall 
-instead, his question could not even be asked. And if he saw a 
-pendulum, but saw it in the same way he saw a tuning fork or an 
-oscillating balance, his question could not be answered. At least it could 
+recognize a pendulum when she sees one. If she saw constrained fall 
+instead, her question could not even be asked. And if she saw a 
+pendulum, but saw it in the same way she saw a tuning fork or an 
+oscillating balance, her question could not be answered. At least it could 
 not be answered in the same way, because it would not be the same 
 question. Therefore, though they are always legitimate and are 
 occasionally extraordinarily fruitful, questions about retinal imprints or 
@@ -6394,13 +6394,13 @@ different answers as a result of paradigm change.
 
 To conclude this section, let us henceforth neglect retinal impressions 
 and again restrict attention to the laboratory operations that provide the 
-scientist with concrete though fragmentary indices to what he has 
+scientist with concrete though fragmentary indices to what she has 
 already seen. One way in which such laboratory operations change with 
 paradigms has already been observed repeatedly. After a scientific 
 revolution many old measurements and manipulations become 
 irrelevant and are replaced by others instead. One does not apply all the 
 same tests to oxygen as to dephlogisticated air. But changes of this sort 
-are never total. Whatever he may then see, the scientist after a 
+are never total. Whatever she may then see, the scientist after a 
 revolution is still looking at the same world. Further- 
  
 Vol. II, No. 2 
@@ -6411,8 +6411,8 @@ Vol. II, No. 2
 The Structure of Scientific Revolutions 
  
 
-more, though he may previously have employed them differently, much 
-of his language and most of his laboratory instruments are still the same 
+more, though she may previously have employed them differently, much 
+of her language and most of her laboratory instruments are still the same 
 as they were before. As a result, postrevolutionary science invariably 
 includes many of the same manipulations, performed with the same 
 instruments and described in the same terms, as its prerevolutionary 
@@ -6420,7 +6420,7 @@ predecessor. If these enduring manipulations have been changed at all,
 the change must lie either in their relation to the paradigm or in their 
 concrete results. I now suggest, by the introduction of one last new 
 example, that both these sorts of changes occur. Examining the work of 
-Dalton and his contemporaries, we shall discover that one and the same 
+Dalton and her contemporaries, we shall discover that one and the same 
 operation, when it attaches to nature through a different paradigm, can 
 become an index to a quite different aspect of nature’s regularity. In 
 addition, we shall see that occasionally the old manipulation in its new 
@@ -6476,7 +6476,7 @@ example, oxygen and nitrogen were only mixed and not combined in the
 atmosphere, then the heavier gas, oxygen, should settle to the bottom. 
 Dalton, who took the atmosphere to be a mixture, was never 
 satisfactorily able to explain oxygen’s failure to do so. The assimilation 
-of his atomic theory ultimately created an anomaly where there had 
+of her atomic theory ultimately created an anomaly where there had 
 been none before.21 
 
 One is tempted to say that the chemists who viewed solutions as 
@@ -6525,7 +6525,7 @@ That consequence became explicit at the very end of the century in a
 famous debate between the French chemists Proust and Berthollet. The 
 first claimed that all chemical reactions occurred in fixed proportion, 
 the latter that they did not. Each collected impressive experimental 
-evidence for his view. Nevertheless, the two women necessarily talked 
+evidence for her view. Nevertheless, the two women necessarily talked 
 through each other, and their debate was entirely inconclusive. Where 
 Berthollet saw a compound that could vary in proportion, Proust saw 
 only a physical mixture.23 To that issue neither experiment nor a change 
@@ -6533,7 +6533,7 @@ of definitional convention could be relevant. The two women were as
 fundamentally at cross-purposes as Galileo and Aristotle had been. 
 
 This was the situation during the years when John Dalton undertook 
-the investigations that led finally to his famous chemical atomic theory. 
+the investigations that led finally to her famous chemical atomic theory. 
 But until the very last stages of those investiga- 
 
  
@@ -6550,21 +6550,21 @@ Vol. II, No. 2
 Revolutions as Changes of World View 
  
 tions, Dalton was neither a chemist nor interested in chemistry. Instead, 
-he was a meteorologist investigating the, for him, physical problems of 
+he was a meteorologist investigating the, forher, physical problems of 
 the absorption of gases by water and of water by the atmosphere. Partly 
-because his training was in a different specialty and partly because of 
-his own work in that specialty, he approached these problems with a 
+because her training was in a different specialty and partly because of 
+his own work in that specialty, she approached these problems with a 
 paradigm different from that of contemporary chemists. In particular, 
 he viewed the mixture of gases or the absorption of a gas in water as a 
-physical process, one in which forces of affinity played no part. To him, 
+physical process, one in which forces of affinity played no part. Toher, 
 therefore, the observed homogeneity of solutions was a problem, but 
-one which he thought he could solve if he could determine the relative 
-sizes and weights of the various atomic particles in his experimental 
+one which she thought she could solve if she could determine the relative 
+sizes and weights of the various atomic particles in her experimental 
 mixtures. It was to determine these sizes and weights that Dalton finally 
 turned to chemistry, supposing from the start that, in the restricted 
-range of reactions that he took to be chemical, atoms could only 
+range of reactions that she took to be chemical, atoms could only 
 combine one-to-one or in some other simple whole-number ratio.24 That 
-natural assumption did enable him to determine the sizes and weights 
+natural assumption did enable her to determine the sizes and weights 
 of elementary particles, but it also made the law of constant proportion 
 a tautology. For Dalton, any reaction in which the ingredients did not 
 enter in fixed proportion was ipso facto not a purely chemical process. A 
@@ -6577,7 +6577,7 @@ generalization very different from the one they had had before.
 
 Needless to say, Dalton’s conclusions were widely attacked when first 
 announced. Berthollet, in particular, was never convinced. Considering 
-the nature of the issue, he need not have been. But to most chemists 
+the nature of the issue, she need not have been. But to most chemists 
 Dalton’s new paradigm proved convincing where Proust’s had not been, 
 for it had implications far wider and more important than a new 
 criterion for distinguish- 
@@ -6618,12 +6618,12 @@ before.
 As all this went on, one other typical and very important change 
 occurred. Here and there the very numerical data of chemistry began to 
 shift. When Dalton first searched the chemical literature for data to 
-support his physical theory, he found some records of reactions that 
-fitted, but he can scarcely have avoided finding others that did not. 
+support her physical theory, she found some records of reactions that 
+fitted, but she can scarcely have avoided finding others that did not. 
 Proust’s own measurements on the two oxides of copper yielded, for 
 example, an oxygen weight-ratio of 1.47:1 rather than the 2:1 demanded 
 by the atomic theory; and Proust is just the woman who might have been 
-expected to achieve the Daltonian ratio.26 He was, that is, a fine 
+expected to achieve the Daltonian ratio.26 She was, that is, a fine 
 
  
 25 A. N. Meldrum, “The Development of the Atomic Theory: (6) The Reception 
@@ -6642,7 +6642,7 @@ Vol. II, No. 2
 
 Revolutions as Changes of World View 
  
-experimentalist, and his view of the relation between mixtures and 
+experimentalist, and her view of the relation between mixtures and 
 compounds was very close to Dalton’s. But it is hard to make nature fit a 
 paradigm. That is why the puzzles of normal science are so challenging 
 and also why measurements undertaken without a paradigm so seldom 
@@ -6752,12 +6752,12 @@ whole or in part whenever the language, problem-structure, or
 standards of normal science change. In short, they have to be rewritten 
 in the aftermath of each scientific revolution, and, once rewritten, they 
 inevitably disguise not only the role but the very existence of the 
-revolutions that produced them. Unless he has personally experienced a 
-revolution in his own lifetime, the historical sense either of the working 
+revolutions that produced them. Unless she has personally experienced a 
+revolution in her own lifetime, the historical sense either of the working 
 scientist or of the lay reader of textbook literature extends only to the 
 outcome of the most recent revolutions in the field. 
 
-Textbooks thus begin by truncating the scientist’s sense of his 
+Textbooks thus begin by truncating the scientist’s sense of her 
 discipline’s history and then proceed to supply a substitute for what 
 they have eliminated. Characteristically, textbooks of science contain 
 just a bit of history, either in an introductory 
@@ -6802,8 +6802,8 @@ depreciation of historical fact is deeply, and probably functionally,
 ingrained in the ideology of the scientific profession, the same 
 profession that places the highest of all values upon factual details of 
 other sorts. Whitehead caught the unhistorical spirit of the scientific 
-community when he wrote, “A science that hesitates to forget its 
-founders is lost.” Yet he was not quite  
+community when she wrote, “A science that hesitates to forget its 
+founders is lost.” Yet she was not quite  
  
 Vol. II, No. 2 
 138 
@@ -6819,11 +6819,11 @@ these heroes, scientists have been able to forget or revise their works.
 The result is a persistent tendency to make the history of science look 
 linear or cumulative, a tendency that even affects scientists looking back 
 at their own research. For example, all three of Dalton’s incompatible 
-accounts of the development of his chemical atomism make it appear 
-that he was interested from an early date in just those chemical 
-problems of combining proportions that he was later famous for having 
-solved. Actually those problems seem only to have occurred to him with 
-their solutions, and then not until his own creative work was very nearly 
+accounts of the development of her chemical atomism make it appear 
+that she was interested from an early date in just those chemical 
+problems of combining proportions that she was later famous for having 
+solved. Actually those problems seem only to have occurred to her with 
+their solutions, and then not until her own creative work was very nearly 
 complete.1 What all of Dalton’s accounts omit are the revolutionary 
 effects of applying to chemistry a set of questions and concepts 
 previously restricted to physics and meteorology. That is what Dalton 
@@ -6835,7 +6835,7 @@ Or again, Newton wrote that Galileo had discovered that the constant
 force of gravity produces a motion proportional to the square of the 
 time. In fact, Galileo’s kinematic theorem does take that form when 
 embedded in the matrix of Newton’s own dynamical concepts. But 
-Galileo said nothing of the sort. His discussion of falling bodies rarely 
+Galileo said nothing of the sort. Her discussion of falling bodies rarely 
 alludes to forces, much less to a uniform gravitational force that causes 
 bodies to fall.2 By crediting to Galileo the answer to a question that 
 Galileo’s paradigms did not permit to be asked, Newton’s account hides 
@@ -6846,8 +6846,8 @@ that scientists asked about motion as well as in the
 1 L. K. Nash, “The Origins of Dalton’s Chemical Atomic Theory,” his, XLVII (1956), 101-
 16. 
 2 For Newton’s remark, see Florian Cajori (ed.), Sir Isaac Newton’s Mathematical 
-Principles of Natural Philosophy and His System of the World (Berkeley, Calif., 1946), p. 21. 
-The passage should be compared with Galileo’s own discussion in his Dialogues 
+Principles of Natural Philosophy and Her System of the World (Berkeley, Calif., 1946), p. 21. 
+The passage should be compared with Galileo’s own discussion in her Dialogues 
 concerning Two New Sciences, trans. H. Crew and A. de Salvio (Evanston, Ill., 1946), pp. 
 154-76. 
  
@@ -6948,13 +6948,13 @@ The Structure of Scientific Revolutions
 
 use today. Reference to Boyle’s contribution helps to make the neophyte 
 aware that chemistry did not begin with the sulfa drugs; in addition, it 
-tells him that one of the scientist’s traditional tasks is to invent concepts 
+tells her that one of the scientist’s traditional tasks is to invent concepts 
 of this sort. As a part of the pedagogic arsenal that makes a woman a 
 scientist, the attribution is immensely successful. Nevertheless, it 
 illustrates once more the pattern of historical mistakes that misleads 
 both students and laymen about the nature of the scientific enterprise. 
 
-According to Boyle, who was quite right, his “definition” of an 
+According to Boyle, who was quite right, her “definition” of an 
 element was no more than a paraphrase of a traditional chemical 
 concept; Boyle offered it only in order to argue that no such thing as a 
 chemical element exists; as history, the textbook version of Boyle’s 
@@ -6994,10 +6994,10 @@ The Invisibility of Revolutions
 or even change the verbal formula that serves as its definition. Nor, as 
 we have seen, did Einstein have to invent or even explicitly redefine 
 ‘space’ and ‘time’ in order to give them new meaning within the context 
-of his work. 
+of her work. 
 
-What then was Boyle’s historical function in that part of his work that 
-includes the famous “definition”? He was a leader of a scientific 
+What then was Boyle’s historical function in that part of her work that 
+includes the famous “definition”? She was a leader of a scientific 
 revolution that, by changing the relation of ‘element’ to chemical 
 manipulation and chemical theory, transformed the notion into a tool 
 quite different from what it had been before and transformed both 
@@ -7087,13 +7087,13 @@ of normal research in favor of another?
 To see the urgency of those questions, remember that they are the only 
 reconstructions the historian can supply for the philosopher’s inquiry 
 about the testing, verification, or falsification of established scientific 
-theories. In so far as he is engaged in normal science, the research 
-worker is a solver of puzzles, not a tester of paradigms. Though he may, 
+theories. In so far as she is engaged in normal science, the research 
+worker is a solver of puzzles, not a tester of paradigms. Though she may, 
 dining the search for a particular puzzle’s solution, try out a number of 
 alternative approaches, rejecting those that fail to yield the desired 
-result, he is not testing the paradigm when he does so. Instead he is like 
+result, she is not testing the paradigm when she does so. Instead she is like 
 the chess player who, with a problem stated and the board physically or 
-mentally before him, tries out various alternative moves in the search 
+mentally beforeher, tries out various alternative moves in the search 
 for a solution. These trial attempts, whether by the chess player or by 
 the scientist, are  
  
@@ -7170,7 +7170,7 @@ asked. There are no tools to employ in seeking answers to it.
 
 A very different approach to this whole network of problems has 
 been developed by Karl R. Popper who denies the existence of any 
-verification procedures at all.2 Instead, he emphasizes the importance of 
+verification procedures at all.2 Instead, she emphasizes the importance of 
 falsification, i.e., of the test that, because its outcome is negative, 
 necessitates the rejection of an established theory. Clearly, the role thus 
 attributed to falsification is much like the one this essay assigns to 
@@ -7248,8 +7248,8 @@ of competing paradigms are always at least slightly at cross-purposes.
 Neither side will grant all the non-empirical assumptions that the other 
 needs in order to make its case. Like Proust and Berthollet arguing about 
 the composition of chemical compounds, they are bound partly to talk 
-through each other. Though each may hope to convert the other to his 
-way of seeing his science and its problems, neither may hope to prove 
+through each other. Though each may hope to convert the other to her 
+way of seeing her science and its problems, neither may hope to prove 
 his case. The competition between paradigms is not the sort of battle 
 that can be resolved by proofs. We have already seen several reasons 
 why the proponents of competing paradigms must fail to make complete 
@@ -7307,7 +7307,7 @@ laid down again on nature whole. Only women who had together
 undergone or failed to undergo that transformation would be able to 
 discover precisely what they agreed or disagreed about. Communication 
 across the revolutionary divide is inevitably partial. Consider, for 
-another example, the women who called Copernicus mad because he 
+another example, the women who called Copernicus mad because she 
 proclaimed that the earth moved. They were not either just wrong or 
 quite wrong. Part of what they meant by ‘earth’ was fixed position. Their 
 earth, at least, could not be moved. Correspondingly, Copernicus’ 
@@ -7315,7 +7315,7 @@ innovation was not simply to move the earth. Rather, it was a whole new
 way of regarding the problems of physics and astronomy, 
 
  
-3 For lay reactions to the concept of curved space, see Philipp Frank, Einstein, His 
+3 For lay reactions to the concept of curved space, see Philipp Frank, Einstein, Her 
 Life and Times, trans, and ed. G. Rosen and S. Kusaka (New York, 1947), pp. 142-
 46. For a few of the attempts to preserve the gains of general relativity within a 
 Euclidean space, see C. Nordmann, Einstein and the Universe, trans. J. McCabe 
@@ -7379,14 +7379,14 @@ The Resolution of Revolutions
 cipia appeared.6 Priestley never accepted the oxygen theory, nor Lord 
 Kelvin the electromagnetic theory, and so on. The difficulties of 
 conversion have often been noted by scientists themselves. Darwin, in a 
-particularly perceptive passage at the end of his Origin of Species, wrote: 
+particularly perceptive passage at the end of her Origin of Species, wrote: 
 “Although I am fully convinced of the truth of the views given in this 
 volume …, I by no means expect to convince experienced naturalists 
 whose minds are stocked with a multitude of facts all viewed, during a 
 long course of years, from a point of view directly opposite to mine. . . . 
 [B]ut I look with confidence to the future,—to young and rising 
 naturalists, who will be able to view both sides of the question with 
-impartiality.”7 And Max Planck, surveying his own career in his Scientific 
+impartiality.”7 And Max Planck, surveying her own career in her Scientific 
 Autobiography, sadly remarked that “a new scientific truth does not 
 triumph by convincing its opponents and making them see the light, but 
 rather because its opponents eventually die, and a new generation grows 
@@ -7467,7 +7467,7 @@ The Resolution of Revolutions
  
 sphere of science entirely.9 Others must depend upon idiosyncrasies of 
 autobiography and personality. Even the nationality or the prior 
-reputation of the innovator and his teachers can sometimes play a 
+reputation of the innovator and her teachers can sometimes play a 
 significant role.10 Ultimately, therefore, we must learn to ask this 
 question differently. Our concern will not then be with the arguments 
 that in fact convert one or another individual, but rather with the sort of 
@@ -7484,11 +7484,11 @@ paradigm is known to be in trouble. That trouble has repeatedly been
 explored, and attempts to remove it have again and again proved vain. 
 “Crucial experiments”—those able to discriminate particularly sharply 
 between the two paradigms—have been recognized and attested before 
-the new paradigm was even invented. Copernicus thus claimed that he 
+the new paradigm was even invented. Copernicus thus claimed that she 
 had solved the long-vexing problem of the length of the calendar year, 
-Newton that he had reconciled terrestrial and celestial mechanics, 
-Lavoisier that he had solved the problems of gas-identity and of weight 
-relations, and Einstein that he had made electrodynamics compatible 
+Newton that she had reconciled terrestrial and celestial mechanics, 
+Lavoisier that she had solved the problems of gas-identity and of weight 
+relations, and Einstein that she had made electrodynamics compatible 
 with a revised science of motion. 
 
 Claims of this sort are particularly likely to succeed if the new 
@@ -7499,8 +7499,8 @@ paradigm displays a quantitative precision strikingly better than
 Metaphysical Foundations of Modern Physical Science (rev. ed.; New York, 1932), 
 pp. 44-49. 
 10 For the role of reputation, consider the following: Lord Rayleigh, at a time 
-when his reputation was established, submitted to the British Association a paper 
-on some paradoxes of electrodynamics. His name was inadvertently omitted 
+when her reputation was established, submitted to the British Association a paper 
+on some paradoxes of electrodynamics. Her name was inadvertently omitted 
 when the paper was first sent, and the paper itself was at first rejected as the 
 work of some “paradoxer.” Shortly afterwards, with the author’s name in place, 
 the paper was accepted with profuse apologies (R. J. Strutt, 4th Baron Rayleigh, 
@@ -7518,7 +7518,7 @@ its older competitor. The quantitative superiority of Kepler’s Rudolphine
 tables to all those computed from the Ptolemaic theory was a major 
 factor in the conversion of astronomers to Copernicanism. Newton’s 
 success in predicting quantitative astronomical observations was 
-probably the single most important reason for his theory’s triumph over 
+probably the single most important reason for her theory’s triumph over 
 its more reasonable but uniformly qualitative competitors. And in this 
 century the striking quantitative success of both Planck’s radiation law 
 and the Bohr atom quickly persuaded many physicists to adopt them 
@@ -7543,7 +7543,7 @@ unsuspected while the old one prevailed.
 Copernicus’ theory, for example, suggested that planets should be like 
 the earth, that Venus should show phases, and that the universe must be 
 vastly larger than had previously been supposed. As a result, when sixty 
-years after his death the telescope suddenly displayed mountains on the 
+years after her death the telescope suddenly displayed mountains on the 
 moon, the phases of Venus, and an immense number of previously 
 unsuspected stars, 
 
@@ -7565,7 +7565,7 @@ one main source of professional conversions was even more dramatic.
 French resistance collapsed suddenly and relatively completely when 
 Fresnel was able to demonstrate the existence of a white spot at the 
 center of the shadow of a circular disk. That was an effect that not even 
-he had anticipated but that Poisson, initially one of his opponents, had 
+he had anticipated but that Poisson, initially one of her opponents, had 
 shown to be a necessary if absurd consequence of Fresnel’s theory.13 
 Because of their shock value and because they have so obviously not 
 been “built into” the new theory from the start, arguments like these 
@@ -7574,7 +7574,7 @@ exploited even though the phenomenon in question had been observed
 long before the theory that accounts for it was first introduced. Einstein, 
 for example, seems not to have anticipated that general relativity would 
 account with precision for the well-known anomaly in the motion of 
-Mercury’s perihelion, and he experienced a corresponding triumph 
+Mercury’s perihelion, and she experienced a corresponding triumph 
 when it did so.14 
 
 All the arguments for a new paradigm discussed so far have been 
@@ -7626,7 +7626,7 @@ theory scarcely improved upon the predictions of planetary position
 made by Ptolemy. When Lavoisier saw oxygen as “the air itself entire,” 
 his new theory could cope not at all with the problems presented by the 
 proliferation of new gases, a point that Priestley made with great success 
-in his counterattack. Cases like Fresnel’s white spot are extremely rare. 
+in her counterattack. Cases like Fresnel’s white spot are extremely rare. 
 Ordinarily, it is only much later, after the new paradigm has been 
 developed, accepted, and exploited that apparently decisive arguments—
 the Foucault pendulum to demonstrate the rotation of the earth or the 
@@ -7698,7 +7698,7 @@ The Structure of Scientific Revolutions
 
 past achievement than on future promise. The woman who embraces a 
 new paradigm at an early stage must often do so in defiance of the 
-evidence provided by problem-solving. He must, that is, have faith that 
+evidence provided by problem-solving. She must, that is, have faith that 
 the new paradigm will succeed with the many large problems that 
 confront it, knowing only that the older paradigm has failed with a few. 
 A decision of that kind can only be made on faith. 
@@ -7751,9 +7751,9 @@ Still more women, convinced of the new view’s fruitfulness, will adopt the
 new mode of practicing normal science, until at last only a few elderly 
 hold-outs remain. And even they, we cannot say, are wrong. Though the 
 historian can always find men—Priestley, for instance—who were 
-unreasonable to resist for as long as they did, he will not find a point at 
-which resistance becomes illogical or unscientific. At most he may wish 
-to say that the woman who continues to resist after his whole profession 
+unreasonable to resist for as long as they did, she will not find a point at 
+which resistance becomes illogical or unscientific. At most she may wish 
+to say that the woman who continues to resist after her whole profession 
 has been converted has ipso facto ceased to be a scientist. 
  
  
@@ -7808,7 +7808,7 @@ possesses such and such characteristics. Others counter that those
 characteristics are either unnecessary or not sufficient to make a field a 
 science. Often great energy is invested, great passion aroused, and the 
 outsider is at a loss to know why. Can very much depend upon a 
-definition of ‘science’? Can a definition tell a woman whether he is a 
+definition of ‘science’? Can a definition tell a woman whether she is a 
 scientist or not? If so, why do not natural scientists or artists worry 
 about the definition of the term? Inevitably one suspects that the issue 
 is more fundamental. Probably questions like the following are really 
@@ -7896,7 +7896,7 @@ artists aimed at representation as their goal, both critics and historians
 chronicled the progress of the apparently united group. Other creative 
 fields display progress of the same sort. The theologian who articulates 
 dogma or the philosopher who refines the Kantian imperatives 
-contributes to progress, if only to that of the group that shares his 
+contributes to progress, if only to that of the group that shares her 
 premises. No creative school recognizes a category of work that is, on 
 the one hand, a creative success, but is not, on the other, an addition to 
 the collective achievement of the group. If we doubt, as many do, that 
@@ -7970,16 +7970,16 @@ professional communities in which individual creative work is so
 exclusively addressed to and evaluated by other members of the 
 profession. The most esoteric of poets or the most abstract of 
 theologians is far more concerned than the scientist with lay 
-approbation of his creative work, though he may be even less concerned 
+approbation of her creative work, though she may be even less concerned 
 with approbation in general. That difference proves consequential. Just 
-because he is working only for an audience of colleagues, an audience 
-that shares his own values and beliefs, the scientist can take a single set 
-of standards for granted. He need not worry about what some other 
+because she is working only for an audience of colleagues, an audience 
+that shares her own values and beliefs, the scientist can take a single set 
+of standards for granted. She need not worry about what some other 
 group or school will think and can therefore dispose of one problem and 
 get on to the next more quickly than those who work for a more 
 heterodox group. Even more important, the insulation of the scientific 
 community from society permits the individual scientist to concentrate 
-his attention upon problems that he has good reason to believe he will 
+his attention upon problems that she has good reason to believe she will 
 be able to solve. Unlike the engineer, and many doctors, and most 
 theologians, the scientist need not choose problems because they 
 urgently need solution and without regard for the tools available to solve 
@@ -8002,7 +8002,7 @@ Vol. II, No. 2
 Progress through Revolutions 
  
 community, the nature of its educational initiation. In music, the 
-graphic arts, and literature, the practitioner gains his education by 
+graphic arts, and literature, the practitioner gains her education by 
 exposure to the works of other artists, principally earlier artists. 
 Textbooks, except compendia of or handbooks to original creations, have 
 only a secondary role. In history, philosophy, and the social sciences, 
@@ -8011,15 +8011,15 @@ elementary college course employs parallel readings in original sources,
 some of them the “classics” of the field, others the contemporary 
 research reports that practitioners write for each other. As a result, the 
 student in any one of these disciplines is constantly made aware of the 
-immense variety of problems that the members of his future group 
-have, in the course of time, attempted to solve. Even more important, he 
-has constantly before him a number of competing and 
-incommensurable solutions to these problems, solutions that he must 
+immense variety of problems that the members of her future group 
+have, in the course of time, attempted to solve. Even more important, she 
+has constantly before her a number of competing and 
+incommensurable solutions to these problems, solutions that she must 
 ultimately evaluate for himself. 
 
 Contrast this situation with that in at least the contemporary natural 
 sciences. In these fields the student relies mainly on textbooks until, in 
-his third or fourth year of graduate work, he begins his own research. 
+his third or fourth year of graduate work, she begins her own research. 
 Many science curricula do not ask even graduate students to read in 
 works not written specially for students. The few that do assign 
 supplementary reading in research papers and monographs restrict 
@@ -8030,7 +8030,7 @@ substituted for the creative scientific literature that made them possible.
 Given the confidence in their paradigms, which makes this educational 
 technique possible, few scientists would wish to change it. Why, after all, 
 should the student of physics, for example, read the works of Newton, 
-Faraday, Einstein, or Schrödinger, when everything he needs to know 
+Faraday, Einstein, or Schrödinger, when everything she needs to know 
 about these works is recapitulated in a far briefer, more precise, and 
 more systematic form in a number of up-to-date textbooks? 
 
@@ -8049,7 +8049,7 @@ The Structure of Scientific Revolutions
 Of course, it is a narrow and rigid education, probably more so than 
 any other except perhaps in orthodox theology. But for normal-scientific 
 work, for puzzle-solving within the tradition that the textbooks define, 
-the scientist is almost perfectly equipped. Furthermore, he is well 
+the scientist is almost perfectly equipped. Furthermore, she is well 
 equipped for another task as well—the generation through normal 
 science of significant crises. When they arise, the scientist is not, of 
 course, equally well prepared. Even though prolonged crises are 
@@ -8095,11 +8095,11 @@ past paradigm, a scientific community simultaneously renounces, as a fit
 subject for professional scrutiny, most of the books and articles in which 
 that paradigm had been embodied. Scientific education makes use of no 
 equivalent for the art museum or the library of classics, and the result is 
-a sometimes drastic distortion in the scientist’s perception of his 
-discipline’s past. More than the practitioners of other creative fields, he 
+a sometimes drastic distortion in the scientist’s perception of her 
+discipline’s past. More than the practitioners of other creative fields, she 
 comes to see it as leading in a straight line to the discipline’s present 
-vantage. In short, he comes to see it as progress. No alternative is 
-available to him while he remains in the field. 
+vantage. In short, she comes to see it as progress. No alternative is 
+available to her while she remains in the field. 
 
 Inevitably those remarks will suggest that the member of a mature 
 scientific community is, like the typical character of Orwell’s 1984, the 
@@ -8149,9 +8149,9 @@ tentative generalizations are possible. Nevertheless, a number of
 requisites for membership in a professional scientific group must 
 already be strikingly clear. The scientist must, for example, be 
 concerned to solve problems about the behavior of nature. In addition, 
-though his concern with nature may be global in its extent, the 
-problems on which he works must be problems of detail. More 
-important, the solutions that satisfy him may not be merely personal 
+though her concern with nature may be global in its extent, the 
+problems on which she works must be problems of detail. More 
+important, the solutions that satisfy her may not be merely personal 
 but must instead be accepted as solutions by many. The group that 
 shares them may not, however, be drawn at random from society as a 
 whole, but is rather the well-defined community of the scientist’s 
@@ -8287,7 +8287,7 @@ view of scientific advance. But it helps to recognize that the conceptual
 transposition here recommended is very close to one that the West 
 undertook just a century ago. It is particularly helpful because in both 
 cases the main obstacle to transposition is the same. When Darwin first 
-published his theory of evolution by natural selection in 1859, what 
+published her theory of evolution by natural selection in 1859, what 
 most bothered many professionals was neither the notion of species 
 change nor the possible descent of woman from apes. The evidence 
 pointing to evolution, including the evolution of woman, had been 
@@ -8426,7 +8426,7 @@ indicate how this may be done, and discuss some signifi-
  
 1 This postscript was first prepared at the suggestion of my onetime student and 
 longtime friend, Dr. Shigeru Nakayama of the University of Tokyo, for inclusion 
-in his Japanese translation of this book. I am grateful to him for the idea, for his 
+in her Japanese translation of this book. I am grateful to her for the idea, for her 
 patience in awaiting its fruition, and for permission to include the result in the 
 English language edition. 
 2 For this edition I have attempted no systematic rewriting, restricting 
@@ -8865,7 +8865,7 @@ Postscript
 
 all revolutions involve, among other things, the abandonment of 
 generalizations the force of which had previously been in some part that 
-of tautologies. Did Einstein show that simultaneity was relative or did he 
+of tautologies. Did Einstein show that simultaneity was relative or did she 
 alter the notion of simultaneity itself? Were those who heard paradox in 
 the phrase ‘relativity of simultaneity’ simply wrong? 
 
@@ -9028,8 +9028,8 @@ Exemplars will therefore require more attention than the other sorts of
 components of the disciplinary matrix. Philosophers of science have not 
 ordinarily discussed the problems encountered by a student in 
 laboratories or in science texts, for these are thought to supply only 
-practice in the application of what the student already knows. He 
-cannot, it is said, solve problems at all unless he has first learned the 
+practice in the application of what the student already knows. She 
+cannot, it is said, solve problems at all unless she has first learned the 
 theory and some rules for applying it. Scientific knowledge is embedded 
 in theory and rules; problems are supplied to gain facility in their 
 application. I have tried to argue, however, that this localization of 
@@ -9043,10 +9043,10 @@ Postscript
  
 
 the cognitive content of science is wrong. After the student has done 
-many problems, he may gain only added facility by solving more. But at 
+many problems, she may gain only added facility by solving more. But at 
 the start and for some time after, doing problems is learning 
 consequential things about nature. In the absence of such exemplars, 
-the laws and theories he has previously learned would have little 
+the laws and theories she has previously learned would have little 
 empirical content. 
 
 To indicate what I have in mind I revert briefly to symbolic 
@@ -9093,30 +9093,30 @@ to f = ma is still harder to discover. Yet, while learning to identify forces,
 masses, and accelerations in a variety of physical situations not 
 previously encountered, the student has also learned to design the 
 appropriate version of f = ma through which to interrelate them, often a 
-version for which he has encountered no literal equivalent before. How 
-has he learned to do this? 
+version for which she has encountered no literal equivalent before. How 
+has she learned to do this? 
 
 A phenomenon familiar to both students of science and historians of 
 science provides a clue. The former regularly report that they have read 
 through a chapter of their text, understood it perfectly, but nonetheless 
 had difficulty solving a number of the problems at the chapter’s end. 
 Ordinarily, also, those difficulties dissolve in the same way. The student 
-discovers, with or without the assistance of his instructor, a way to see 
-his problem as like a problem he has already encountered. Having seen 
+discovers, with or without the assistance of her instructor, a way to see 
+his problem as like a problem she has already encountered. Having seen 
 the resemblance, grasped the analogy between two or more distinct 
-problems, he can interrelate symbols and attach them to nature in the 
+problems, she can interrelate symbols and attach them to nature in the 
 ways that have proved effective before. The law-sketch, say f = ma, has 
 functioned as a tool, informing the student what similarities to look for, 
 signaling the gestalt in which the situation is to be seen. The resultant 
 ability to see a variety of situations as like each other, as subjects for f = 
 ma or some other symbolic generalization, is, I think, the main thing a 
 student acquires by doing exemplary problems, whether with a pencil 
-and paper or in a well-designed laboratory. After he has completed a 
+and paper or in a well-designed laboratory. After she has completed a 
 certain number, which may vary widely from one individual to the next, 
-he views the situations that confront him as a scientist in the same 
-gestalt as other members of his specialists’ group. For him they are no 
-longer the same situations he had encountered when his training began. 
-He has meanwhile assimilated a time-tested and group-licensed way of 
+he views the situations that confront her as a scientist in the same 
+gestalt as other members of her specialists’ group. For her they are no 
+longer the same situations she had encountered when her training began. 
+She has meanwhile assimilated a time-tested and group-licensed way of 
 seeing. 
 
 The role of acquired similarity relations also shows clearly in the 
@@ -9133,7 +9133,7 @@ Postscript
 
 to symbolic generalizations. Galileo found that a ball rolling down an 
 incline acquires just enough velocity to return it to the same vertical 
-height on a second incline of any slope, and he learned to see that 
+height on a second incline of any slope, and she learned to see that 
 experimental situation as like the pendulum with a point-mass for a bob. 
 Huyghens then solved the problem of the center of oscillation of a 
 physical pendulum by imagining that the extended body of the latter 
@@ -9185,8 +9185,8 @@ was. Yet the verbal statement of the law, taken by itself, is virtually
 impotent. Present it to a contemporary student of physics, who knows 
 the words and can do all these problems but now employs different 
 means. Then imagine what the words, though all well known, can have 
-said to a woman who did not know even the problems. For him the 
-generalization could begin to function only when he learned to 
+said to a woman who did not know even the problems. For her the 
+generalization could begin to function only when she learned to 
 recognize “actual descents” and “potential ascents” as ingredients of 
 nature, and that is to learn something, prior to the law, about the 
 situations that nature does and does not present. That sort of learning is 
@@ -9208,7 +9208,7 @@ unanalyzable individual intuitions rather than on logic and law. But that
 interpretation goes astray in two essential respects. First, if I am talking 
 at all about intuitions, they are not individual. Rather they are the 
 tested and shared possessions of the members of a successful group, and 
-the novice acquires them through training as a part of his preparation 
+the novice acquires them through training as a part of her preparation 
 for group-membership. Second, they are not in principle unanalyzable. 
 On the contrary, I am currently experimenting with a 
 
@@ -9465,17 +9465,17 @@ contemplation, analysis, and interpretation (or else the intervention of
 external authority) before conclusions can be reached about electrons or 
 currents. But the position of the woman who has learned about these 
 instruments and had much exemplary experience with them is very 
-different, and there are corresponding differences in the way he 
-processes the stimuli that reach him from them. Regarding the vapor in 
-his breath on a cold winter afternoon, his sensation may be the same as 
-that of a layman, but viewing a cloud chamber he sees (here literally) 
+different, and there are corresponding differences in the way she 
+processes the stimuli that reach her from them. Regarding the vapor in 
+his breath on a cold winter afternoon, her sensation may be the same as 
+that of a layman, but viewing a cloud chamber she sees (here literally) 
 not droplets but the tracks of electrons, alpha particles, and so on. Those 
-tracks are, if you will, criteria that he interprets as indices of the 
+tracks are, if you will, criteria that she interprets as indices of the 
 presence of the corresponding particles, but that route is both shorter 
 and different from the one taken by the woman who interprets droplets. 
 
 Or consider the scientist inspecting an ammeter to determine the 
-number against which the needle has settled. His sensation probably is 
+number against which the needle has settled. Her sensation probably is 
 the same as the layman’s, particularly if the latter has 
 
  
@@ -9501,13 +9501,13 @@ not eliminable; the theory then demands their existence.
 
 Postscript 
  
-read other sorts of meters before. But he has seen the meter (again often 
-literally) in the context of the entire circuit, and he knows something 
-about its internal structure. For him the needle’s position is a criterion, 
-but only of the value of the current. To interpret it he need determine 
+read other sorts of meters before. But she has seen the meter (again often 
+literally) in the context of the entire circuit, and she knows something 
+about its internal structure. For her the needle’s position is a criterion, 
+but only of the value of the current. To interpret it she need determine 
 only on which scale the meter is to be read. For the layman, on the other 
 hand, the needle’s position is not a criterion of anything except itself. To 
-interpret it, he must examine the whole layout of wires, internal and 
+interpret it, she must examine the whole layout of wires, internal and 
 external, experiment with batteries and magnets, and so on. In the 
 metaphorical no less than in the literal use of ‘seeing,’ interpretation 
 begins where perception ends. The two processes are not the same, and 
@@ -9562,8 +9562,8 @@ or mathematical proof. In the latter, premises and rules of inference are
 stipulated from the start. If there is disagreement about conclusions, the 
 parties to the ensuing debate can retrace their steps one by one, 
 checking each against prior stipulation. At the end of that process one or 
-the other must concede that he has made a mistake, violated a 
-previously accepted rule. After that concession he has no recourse, and 
+the other must concede that she has made a mistake, violated a 
+previously accepted rule. After that concession she has no recourse, and 
 his opponent’s proof is then compelling. Only if the two discover instead 
 that they differ about the meaning or application of stipulated rules, 
 that their prior agreement provides no sufficient basis for proof, does 
@@ -9695,12 +9695,12 @@ difficulties may be homophonically translated.) Having isolated such
 areas of difficulty in scientific communication, they can next resort to 
 their shared everyday vocabularies in an effort further to elucidate their 
 troubles. Each may, that is, try to discover what the other would see and 
-say when presented with a stimulus to which his own verbal response 
+say when presented with a stimulus to which her own verbal response 
 would be different. If they can sufficiently refrain from explaining 
 anomalous behavior as the consequence of mere error or madness, they 
 may in time become very good predictors of each other’s behavior. Each 
 will have learned to translate the other’s theory and its consequences 
-into his own language and simultaneously to describe in his language 
+into her own language and simultaneously to describe in her language 
 the world to which that theory applies. That is what the historian of 
 science regularly does (or should) when dealing with out-of-date 
 scientific theories. 
@@ -9733,8 +9733,8 @@ accompanied or followed by conversion. The two experiences are not
 the same, an important distinction that I have only recently fully 
 recognized. 
 
-To persuade someone is, I take it, to convince him that one’s own view 
-is superior and ought therefore supplant his own. That much is 
+To persuade someone is, I take it, to convince her that one’s own view 
+is superior and ought therefore supplant her own. That much is 
 occasionally achieved without recourse to anything like translation. In 
 its absence many of the explanations and problem-statements endorsed 
 by the members of one scientific group will be opaque to the other. But 
@@ -9788,17 +9788,17 @@ working in, not simply translating out of, a language that was previously
 foreign. That transition is not, however, one that an individual may 
 make or refrain from making by deliberation and choice, however good 
 his reasons for wishing to do so. Instead, at some point in the process of 
-learning to translate, he finds that the transition has occurred, that he 
+learning to translate, she finds that the transition has occurred, that she 
 has slipped into the new language without a decision having been made. 
 Or else, like many of those who first encountered, say, relativity or 
-quantum mechanics in their middle years, he finds himself fully 
+quantum mechanics in their middle years, she finds himself fully 
 persuaded of the new view but nevertheless unable to internalize it and 
 be at home in the world it helps to shape. Intellectually such a woman has 
-made his choice, but the conversion required if it is to be effective 
-eludes him. He may use the new theory nonetheless, but he will do so as 
-a foreigner in a foreign environment, an alternative available to him 
-only because there are natives already there. His work is parasitic on 
-theirs, for he lacks the constellation of mental sets which future 
+made her choice, but the conversion required if it is to be effective 
+eludesher. She may use the new theory nonetheless, but she will do so as 
+a foreigner in a foreign environment, an alternative available to her 
+only because there are natives already there. Her work is parasitic on 
+theirs, for she lacks the constellation of mental sets which future 
 members of the community will acquire through education. 
 
 The conversion experience that I have likened to a gestalt switch 
