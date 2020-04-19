@@ -1,9 +1,9 @@
-import os, sys
+import os
 import click
+import re
 import tika
 from tika import parser
 import json
-import re
 
 ## functions for loading/converting pdfs or txt files
 def load_pdf(input):
@@ -34,7 +34,7 @@ def parse_content_by_filetype(input):
         content = load_text(input)
     return content
 
-## regex matches for words to change
+## regex matching functions for substitutions
 def m_to_w(match):
     m_n = match.group()
     if m_n[0] == "m": return "wo"+m_n
@@ -50,13 +50,10 @@ def him_his_to_her(match):
     if hi_[0] == "h": return "her"
     else: return "Her"
 
-# subn()
-# Does the same thing as sub(), but returns the new string and the number of replacements
-# then i get the count for free too
-
+# function definition for doing all the work to read, convert, and write
 @click.command()
 @click.option('-i', '--input', required=True, help='Input file as .txt or .pdf')
-@click.option('-o', '--output', default="feminized.txt", help='Output file as .txt')
+@click.option('-o', '--output', default="feminized.txt", show_default=True, help='Output file as .txt')
 
 def feminize(input, output):
     '''Read content from INPUT file (.pdf or .txt), replace all male nouns and
@@ -73,24 +70,33 @@ def feminize(input, output):
     click.echo("Running m[]n to wom[]n conversion...")
     mw = re.compile(r'\b[Mm][ae]n\b')
     content, mw_count = mw.subn(m_to_w, content)
-    click.echo("%s m[]n are now wom[]n" % str(mw_count))
+    click.echo("* %s m[]n are now wom[]n" % str(mw_count))
 
     click.echo("Running he to she conversion...")
     heshe = re.compile(r'\b[Hh]e\b')
     content, heshe_count = heshe.subn(he_to_she, content)
-    click.echo("%s he are now she" % str(heshe_count))
+    click.echo("* %s he are now she" % str(heshe_count))
 
     click.echo("Running him/his to her conversion...")
     himsher = re.compile(r'\b[Hh]i[ms]\b')
     content, himsher_count = himsher.subn(him_his_to_her, content)
-    click.echo("%s him/his are now her" % str(himsher_count))
+    click.echo("* %s him/his are now her" % str(himsher_count))
+
+    # get some counts to have some insights into the changes
+    total_count = mw_count+heshe_count+himsher_count
+    approx_num_sentences = content.count('.')
 
     click.echo("Writing text to output file: %s" % output)
     with open(output, 'w') as f:
         f.write(content)
-    click.echo("Total %s word changes out of %s to feminize your text!" %
-                    (str(mw_count+heshe_count+himsher_count),
-                    str(total_words)))
+
+    click.echo("* Total %s word changes out of %s (%s) to feminize your text!" %
+                    (str(total_count),
+                    str(total_words),
+                    "{:.2%}".format(float(total_count)/float(total_words))))
+    click.echo("* %s of sentences changed (assume one change per sentence for est. %s sentences)"
+                % ("{:.2%}".format(float(total_count)/float(approx_num_sentences)),
+                  str(approx_num_sentences)))
 
 if __name__ == "__main__":
     feminize()
