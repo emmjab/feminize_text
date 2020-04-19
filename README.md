@@ -4,7 +4,7 @@ Tired of reading documents that use masculine nouns and pronouns for talking abo
 people in the abstract, especially when referring to scientists, programmers, and
 engineers? I know I am! Here's a script I wrote to help me get through Thomas S. Kuhn's
 *The Structure of Scientific Revolutions* (1962) [1]. Maybe it's useful for you, too!
-Works by re-gendering all references to men in PDFs & text-based files. &#9792;
+Works by re-gendering all references to men in PDFs & text-based files.
 
 ## Usage
 
