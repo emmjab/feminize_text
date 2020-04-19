@@ -1,9 +1,6 @@
-import os
-import click
-import re
-import tika
-from tika import parser
-import json
+import os, re, json
+import click # for script input parsing and pretty help-text
+from tika import parser  # for pdf parsing
 
 ## functions for loading/converting pdfs or txt files
 def load_pdf(input):
@@ -27,10 +24,10 @@ def load_txt(input):
 def parse_content_by_filetype(input):
     file_name, file_ext = os.path.splitext(input)
     if file_ext.lower() == ".pdf":
-        click.echo("...parsing as PDF")
+        click.echo("...parsing as .pdf file")
         content = load_pdf(input)
     else:
-        click.echo("...parsing as text file")
+        click.echo("...parsing as normal text file")
         content = load_text(input)
     return content
 
@@ -52,14 +49,14 @@ def him_his_to_her(match):
 
 # function definition for doing all the work to read, convert, and write
 @click.command()
-@click.option('-i', '--input', required=True, help='Input file as .txt or .pdf')
-@click.option('-o', '--output', default="feminized.txt", show_default=True, help='Output file as .txt')
+@click.option('-i', '--input', required=True, help='Path to input file as .txt or .pdf')
+@click.option('-o', '--output', default="feminized.txt", show_default=True, help='Path to output file')
 
 def feminize(input, output):
     '''Read content from INPUT file (.pdf or .txt), replace all male nouns and
        pronouns with female ones, and write to OUTPUT file.'''
 
-    click.echo("Grabbing content from %s, either pdf or text..." % input)
+    click.echo("Grabbing content from %s..." % input)
     content = parse_content_by_filetype(input)
 
     total_words = len(re.findall(r'\w+', content))
