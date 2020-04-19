@@ -4,7 +4,7 @@ Tired of reading documents that use masculine nouns and pronouns for talking abo
 people in the abstract, especially when referring to scientists, programmers, and
 engineers? I know I am! Here's a script I wrote to help me get through Thomas S. Kuhn's
 *The Structure of Scientific Revolutions* (1962) [1]. Maybe it's useful for you, too!
-Works by re-gendering all references to men in PDFs & text-based files.
+Works by re-gendering all references to men in PDFs & text-based files. &#9792;
 
 ## Usage
 
@@ -35,7 +35,7 @@ Options:
 
 ## Setup
 
-The PDF parsing requires the (apache tika library)[https://github.com/chrismattmann/tika-python],
+The PDF parsing requires the [apache tika library](https://github.com/chrismattmann/tika-python),
 which you can install like a normal python library along with the other (very
 minimal) requirements.
 
@@ -114,7 +114,7 @@ files are both empty, something went wrong with the parsing & you're on your own
 
 You can read the following section to follow my development process, which might help.
 
-## Background & documentation of the process
+## Background & documentation of the script-writing process
 
 2h project including thinking time and file downloading time.
 
