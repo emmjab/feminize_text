@@ -65,21 +65,32 @@ def feminize(input, output):
     click.echo("Grabbing content from %s, either pdf or text..." % input)
     content = parse_content_by_filetype(input)
 
+    total_words = len(re.findall(r'\w+', content))
+    if not total_words:
+        click.echo("Found 0 words in this document.")
+        return
+
     click.echo("Running m[]n to wom[]n conversion...")
     mw = re.compile(r'\b[Mm][ae]n\b')
-    content = mw.sub(m_to_w, content)
+    content, mw_count = mw.subn(m_to_w, content)
+    click.echo("%s m[]n are now wom[]n" % str(mw_count))
 
     click.echo("Running he to she conversion...")
     heshe = re.compile(r'\b[Hh]e\b')
-    content = heshe.sub(he_to_she, content)
+    content, heshe_count = heshe.subn(he_to_she, content)
+    click.echo("%s he are now she" % str(heshe_count))
 
     click.echo("Running him/his to her conversion...")
     himsher = re.compile(r'\b[Hh]i[ms]\b')
-    content = himsher.sub(him_his_to_her, content)
+    content, himsher_count = himsher.subn(him_his_to_her, content)
+    click.echo("%s him/his are now her" % str(himsher_count))
 
     click.echo("Writing text to output file: %s" % output)
     with open(output, 'w') as f:
         f.write(content)
+    click.echo("Total %s word changes out of %s to feminize your text!" %
+                    (str(mw_count+heshe_count+himsher_count),
+                    str(total_words)))
 
 if __name__ == "__main__":
     feminize()
