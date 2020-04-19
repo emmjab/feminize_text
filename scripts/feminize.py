@@ -16,7 +16,7 @@ def load_pdf(input):
 
     return content
 
-def load_txt(input):
+def load_text(input):
     '''Return the text from input file'''
     with open(input, 'r') as f:
         return f.read()

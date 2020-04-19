@@ -112,9 +112,40 @@ scrolling down. If you still don't see any output, you can check out the two log
 files that get written: the "\_content.log" and the "\_metadata.log". If these
 files are both empty, something went wrong with the parsing & you're on your own :)
 
-You can read the following section to follow my development process, which might help.
+You can read the **Background & documentation** section to follow my development process, which might help.
+
+## Questions
+
+1. Why not "they"?
+
+I think if the "default" is a male scientist, programmer, or engineer, your mind
+will still conjure a male when reading "they", even if it's a "gender-neutral"
+word. The idea of this script is to re-train defaults. If it doesn't matter, let's
+re-paint the world female!
+
+2. What happens to pronouns that refer to human (real or imaginary) males?
+
+They also get re-gendered! Everyone gets re-gendered! At first I started thinking
+about ways to fix this, but then I decided it doesn't need fixing :)
+
+3. Why not call it "womanizer.py"? Isn't that a better pun?
+
+Yeah :D
+
+Here was my name brainstorm for this repo:
+- regenderization
+- transcription
+- transcrypt
+- womanizer
+- his_and_hers
+- \_he
+- m2f
+- feminizer
+- text_that_is_easier_on_the_eyes
 
 ## Background & documentation of the script-writing process
+
+**Note: this is stream of consciousness**
 
 2h project including thinking time and file downloading time.
 
@@ -206,10 +237,12 @@ read the text with the female pronouns is because I want to feel the impact of i
 "They" still conjures a "male image", where "men" are still the default. So if
 pushed completely in the other direction we can see the world in a different light.
 
-I'm not going to comment at all about who was in Kuhn's world, and who were the
-scientists in history. If the women were written out or they weren't there at all,
-it's not stated today. But, in order to not discourage women who are already in
-the field, this is a small act to test a subtle effect.
+I can't comment at all about who was in Kuhn's world, and who were the scientists
+in history. If women were written out or they weren't there at all, it's immaterial
+now to the (somehow still existing) uphill battle to get in and stay in technical
+and scientific domains due to issues orthogonal to desire and ability to do the
+work. In order to unburden women who are already here, this is a small act to test
+a subtle effect.
 
 The other reason I'm doing all the pronouns also, instead of randomly spattering
 femaleness around is because sometimes the feminine pronouns are clearly used in
