@@ -1,12 +1,9 @@
-import sys
+import os, sys
 import click
 import tika
 from tika import parser
 import json
-
-@click.command()
-@click.option('-i', '--input', help='Input file as .txt or .pdf')
-@click.option('-o', '--output', help='Output file as .txt')
+import re
 
 ## functions for loading/converting pdfs or txt files
 def load_pdf(input):
@@ -56,6 +53,10 @@ def him_his_to_her(match):
 # subn()
 # Does the same thing as sub(), but returns the new string and the number of replacements
 # then i get the count for free too
+
+@click.command()
+@click.option('-i', '--input', required=True, help='Input file as .txt or .pdf')
+@click.option('-o', '--output', default="feminized.txt", help='Output file as .txt')
 
 def feminize(input, output):
     '''Read content from INPUT file (.pdf or .txt), replace all male nouns and
