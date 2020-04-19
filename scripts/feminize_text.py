@@ -1,12 +1,64 @@
 import sys
+import click
 import tika
 from tika import parser
 import json
 
-def parse_text(filepath):
+@click.command()
+@click.option('-i', '--input', help='Input file as .txt or .pdf')
+@click.option('-o', '--output', help='The person to greet.')
+
+def hello(count, name):
+    """Simple program that greets NAME for a total of COUNT times."""
+    for x in range(count):
+        click.echo('Hello %s!' % name)
+
+if __name__ == '__main__':
+    hello()
+
+def load_pdf(input):
     '''Return the parsed pdf content using tika'''
-    parsed = parser.from_file(filepath)
-    return (parsed["metadata"], parsed["content"])
+    parsed = parser.from_file(input)
+    metadata, content = parsed["metadata"], parsed["content"]
+
+    # for debugging, this is what gets read from the pdf via tika
+    with open(input+"_metadata.log", 'w') as m:
+        m.write(metadata)
+    with open(input+"_content.log", 'w') as c:
+        c.write(content)
+
+    return content
+
+def load_txt(input):
+    '''Return the text from input file'''
+    with open(input, 'r') as f:
+        return f.read()
+
+#wom (prefix)
+wom        = "wom"
+Wom        = "Wom"
+
+#man
+_man       = " man"
+man        = _man + " "
+man_comma  = _man + ","
+man_period = _man + "."
+Man        = man.replace("m", "M")
+Man_comma  = man_comma.replace("m", "M")
+
+#men
+men, men_comma, men_period,
+Men, Men_comma = [s.replace("a", "e") for s in [man, man_comma, man_period,
+                                                Man, Man_comma]]
+
+def man_to_woman(content):
+    content = [content.replace(s, s.replace('m', wom))
+                    for s in [man, man_comma, man_period,
+                              men, men_comma, men_period]]
+    content = [content.replace(s, s.replace('M', Wom))
+                    for s in [Man, Man_comma,
+                              Men, Men_comma]]
+
 
 def count_men(content):
     '''Return the number of instances of "men"'''
@@ -38,20 +90,21 @@ def count_women(content):
 def count_pronouns(content):
     return content.count(" his ")+content.count(" him ")+content.count(" he ")
 
-def change_pronouns(content):
+def his_to_her(content):
     '''Change all male pronouns to female pronouns, even when referring to specific people'''
-
     content = content.replace(" his ", " her ")
     content = content.replace("His ", "Her ")
     content = content.replace(" him ", " her ")
-    content = content.replace(" him,", "her,")
-    content = content.replace(" him.", "her.")
+    content = content.replace(" him,", " her,")
+    content = content.replace(" him.", " her.")
     content = content.replace(" he ", " she ")
     content = content.replace("He ", "She ")
+    # there are cases that will use "his" as possessive, which
+    # would need to change to "hers", but I'm not going to bother figuring
+    # this out. e.g. "it was his." -> "it was hers."
     return content
 
-
-def make_female(content):
+def man_to_woman(content):
     '''Change all instances of man and men to woman and women'''
     content = content.replace(" man ", " woman ")
     content = content.replace(" men ", " women ")
@@ -63,16 +116,42 @@ def make_female(content):
     content = content.replace("Men,", "Women,")
     content = content.replace(" man.", " woman.")
     content = content.replace(" men.", " women.")
-
-    content = change_pronouns(content)
-
     # note, there are probably cases that look like:
     # "men, ", but I'm not going to bother replacing these.
     return content
 
+def parse_content_by_filetype(input):
+    file_name, file_ext = os.path.splitext(input)
+    if file_ext.lower() == ".pdf":
+        content = load_pdf(input)
+    else:
+        content = load_text(input)
+    return content
+
+
+def feminize(input, output):
+    '''Read content from INPUT file (.pdf or .txt), replace all male nouns and
+       pronouns with female ones, and write to OUTPUT file.'''
+
+    print("Grabbing content from %s, either pdf or text..." % input)
+    content = parse_content_by_filetype(input)
+
+    print("Running the noun conversion...")
+    content = man_to_woman(content)
+
+    print("Runing the pronoun conversion...")
+    content = his_to_her(content)
+
+
+
+    print("Writing text to output file: %s" % output)
+    with open(output, 'w') as f:
+        f.write(content)
+
 if __name__ == "__main__":
-    filepath = sys.argv[1]
-    print(filepath)
+
+    make_female(input, output)
+
     metadata,content = parse_text(filepath)
     print(type(metadata), type(content))
     metadata = json.dumps(metadata)
